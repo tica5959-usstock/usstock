@@ -657,7 +657,16 @@ function renderUSSectorHeatmap(data) {
             }
         },
         tooltip: {
-            theme: 'dark'
+            theme: 'dark',
+            y: {
+                formatter: function (val, opts) {
+                    const dataPoint = opts.w.config.series[opts.seriesIndex].data[opts.dataPointIndex];
+                    if (dataPoint) {
+                        return `$${dataPoint.price} (${dataPoint.change > 0 ? '+' : ''}${dataPoint.change}%)`;
+                    }
+                    return val;
+                }
+            }
         }
     };
 
