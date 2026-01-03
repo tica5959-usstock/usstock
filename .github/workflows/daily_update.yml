@@ -44,4 +44,4 @@ jobs:
         git reset *.png
         
         git commit -m "Auto-update data (Daily)" || echo "No changes to commit"
-        git push
+        git push origin HEAD:main
