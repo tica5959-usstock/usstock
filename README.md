@@ -144,6 +144,13 @@ python update_all.py --quick
 - `us_etf_flows.csv`: ETF 자금 흐름 데이터
 - `smart_money_picks_v2.csv`: 스마트 머니 종합 스크리닝 결과
 
+### 🇺🇸 US Stock AI Dashboard
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tica5959-usstock/usstock/blob/main/Stock_Dashboard_Colab.ipynb)
+
+Advanced US Stock Market Analysis Dashboard powered by Flask, Gemini 3.0, and GPT-4.
+Features real-time data tracking, AI-driven insights, and institutional flow analysis.
+
 ### JSON 파일
 
 - `etf_flow_analysis.json`: ETF 자금 흐름 분석

@@ -1,0 +1,122 @@
+{
+  "NEM": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T21:24:05.412380"
+  },
+  "MRK": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T21:28:10.607467"
+  },
+  "CCL": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T21:32:16.534725"
+  },
+  "STT": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T21:36:21.698837"
+  },
+  "HAL": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T21:40:26.703260"
+  },
+  "DG": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T21:44:31.674507"
+  },
+  "SCHW": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T21:48:37.040016"
+  },
+  "EIX": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T21:52:42.542566"
+  },
+  "HII": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T21:56:47.612802"
+  },
+  "C": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:00:52.652371"
+  },
+  "MU": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:04:57.725222"
+  },
+  "HIG": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:09:02.525216"
+  },
+  "AIZ": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:13:07.412248"
+  },
+  "AVY": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:17:12.513622"
+  },
+  "FDX": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:21:17.450744"
+  },
+  "USB": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:25:22.855462"
+  },
+  "OMC": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:29:28.488640"
+  },
+  "NDAQ": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:33:34.355346"
+  },
+  "MOH": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:37:39.489375"
+  },
+  "FCX": {
+    "summary": "Analysis Failed (Rate Limit)",
+    "summary_ko": "Analysis Failed (Rate Limit)",
+    "summary_en": "Analysis Failed (Rate Limit)",
+    "updated": "2026-01-03T22:41:44.785131"
+  }
+}
