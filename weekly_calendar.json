@@ -1,12 +1,17 @@
 {
-  "updated": "2026-01-03T15:19:59.879375",
+  "updated": "2026-01-04T00:26:46.322976",
   "events": [
     {
       "date": "2025-12-10",
-      "event": "FOMC Interest Rate Decision",
+      "time": "14:00",
+      "currency": "USD",
+      "title": "FOMC Interest Rate Decision",
       "impact": "High",
-      "description": "Fed rate decision."
+      "actual": "-",
+      "forecast": "5.50%",
+      "previous": "5.50%",
+      "ai_analysis": "Fed rate decision critical for market direction."
     }
   ],
-  "week_start": "2026-01-03"
+  "week_start": "2026-01-04"
 }

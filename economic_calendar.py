@@ -27,16 +27,28 @@ class EconomicCalendar:
                     for _, row in us.iterrows():
                         events.append({
                             'date': datetime.now().strftime('%Y-%m-%d'), 
-                            'event': row['Event'],
+                            'time': row.get('Event Time', '00:00'),
+                            'currency': 'USD',
+                            'title': row['Event'],
                             'impact': 'Medium',
-                            'description': f"Actual: {row.get('Actual','-')} | Est: {row.get('Market Expectation','-')}"
+                            'actual': row.get('Actual', '-'),
+                            'forecast': row.get('Market Expectation', '-'),
+                            'previous': row.get('Previous', '-'),
+                            'ai_analysis': None
                         })
         except: pass
         
         # Add Manual Major Events (Example)
         events.append({
-            'date': '2025-12-10', 'event': 'FOMC Interest Rate Decision', 
-            'impact': 'High', 'description': 'Fed rate decision.'
+            'date': '2025-12-10', 
+            'time': '14:00',
+            'currency': 'USD',
+            'title': 'FOMC Interest Rate Decision', 
+            'impact': 'High', 
+            'actual': '-',
+            'forecast': '5.50%',
+            'previous': '5.50%',
+            'ai_analysis': 'Fed rate decision critical for market direction.'
         })
         return events
     
@@ -49,10 +61,10 @@ class EconomicCalendar:
         for ev in events:
             if ev['impact'] == 'High':
                 try:
-                    payload = {"contents": [{"parts": [{"text": f"Explain market impact of: {ev['event']} in 2 sentences."}]}]}
+                    payload = {"contents": [{"parts": [{"text": f"Explain market impact of: {ev['title']} in 2 sentences."}]}]}
                     resp = requests.post(f"{url}?key={key}", json=payload)
                     if resp.status_code == 200:
-                        ev['description'] += "\n\n🤖 AI: " + resp.json()['candidates'][0]['content']['parts'][0]['text']
+                        ev['ai_analysis'] = resp.json()['candidates'][0]['content']['parts'][0]['text']
                 except: pass
         return events
 
