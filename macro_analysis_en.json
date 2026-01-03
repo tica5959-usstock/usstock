@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-01-03T21:23:08.019545",
+  "macro_indicators": {
+    "VIX": {
+      "value": 14.51,
+      "change_1d": -2.94,
+      "pct_from_high": -75.9
+    },
+    "DXY": {
+      "value": 98.42,
+      "change_1d": 0.14,
+      "pct_from_high": -10.7
+    },
+    "2Y_Yield": {
+      "value": 3.53,
+      "change_1d": -0.39,
+      "pct_from_high": -17.9
+    },
+    "10Y_Yield": {
+      "value": 4.19,
+      "change_1d": 0.58,
+      "pct_from_high": -12.9
+    },
+    "GOLD": {
+      "value": 4314.4,
+      "change_1d": -0.26,
+      "pct_from_high": -5.3
+    },
+    "OIL": {
+      "value": 57.32,
+      "change_1d": -0.17,
+      "pct_from_high": -29.0
+    },
+    "BTC": {
+      "value": 89621.09,
+      "change_1d": -0.36,
+      "pct_from_high": -29.0
+    },
+    "SPY": {
+      "value": 683.17,
+      "change_1d": 0.18,
+      "pct_from_high": -1.2
+    },
+    "QQQ": {
+      "value": 613.12,
+      "change_1d": -0.19,
+      "pct_from_high": -3.6
+    },
+    "YieldSpread": {
+      "value": 0.66,
+      "change_1d": 0,
+      "pct_from_high": 0
+    },
+    "FearGreed": {
+      "value": 65,
+      "change_1d": 0,
+      "pct_from_high": 0
+    }
+  },
+  "ai_analysis": "Rate limit exceeded"
+}

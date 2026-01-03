@@ -1,0 +1,114 @@
+{
+  "top_picks": [
+    {
+      "ticker": "NEM",
+      "name": "Newmont Corporation",
+      "final_score": 60.6,
+      "quant_score": 75.8,
+      "ai_recommendation": "Hold",
+      "current_price": 101.22,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 1
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co., Inc.",
+      "final_score": 59.5,
+      "quant_score": 74.4,
+      "ai_recommendation": "Hold",
+      "current_price": 106.45,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 2
+    },
+    {
+      "ticker": "CCL",
+      "name": "Carnival Corporation & plc",
+      "final_score": 59.3,
+      "quant_score": 74.1,
+      "ai_recommendation": "Hold",
+      "current_price": 30.92,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 3
+    },
+    {
+      "ticker": "STT",
+      "name": "State Street Corporation",
+      "final_score": 59.2,
+      "quant_score": 74.0,
+      "ai_recommendation": "Hold",
+      "current_price": 129.07,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 4
+    },
+    {
+      "ticker": "HAL",
+      "name": "Halliburton Company",
+      "final_score": 58.8,
+      "quant_score": 73.5,
+      "ai_recommendation": "Hold",
+      "current_price": 29.6,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 5
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General Corporation",
+      "final_score": 58.8,
+      "quant_score": 73.5,
+      "ai_recommendation": "Hold",
+      "current_price": 136.82,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 6
+    },
+    {
+      "ticker": "SCHW",
+      "name": "The Charles Schwab Corporation",
+      "final_score": 58.7,
+      "quant_score": 73.4,
+      "ai_recommendation": "Hold",
+      "current_price": 101.57,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 7
+    },
+    {
+      "ticker": "EIX",
+      "name": "Edison International",
+      "final_score": 58.3,
+      "quant_score": 72.9,
+      "ai_recommendation": "Hold",
+      "current_price": 60.93,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 8
+    },
+    {
+      "ticker": "HII",
+      "name": "Huntington Ingalls Industries, Inc.",
+      "final_score": 58.2,
+      "quant_score": 72.8,
+      "ai_recommendation": "Hold",
+      "current_price": 349.75,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 9
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup Inc.",
+      "final_score": 58.0,
+      "quant_score": 72.5,
+      "ai_recommendation": "Hold",
+      "current_price": 118.7,
+      "ai_summary": "Analysis Failed",
+      "sector": "N/A",
+      "rank": 10
+    }
+  ]
+}

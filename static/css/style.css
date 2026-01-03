@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    overflow: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #444;
+}
+
+.koyfin-border {
+    border-color: #2a2a2a;
+}
+
+.nav-tab {
+    padding: 8px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #888;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s;
+}
+
+.nav-tab:hover {
+    color: #fff;
+}
+
+.nav-tab.active {
+    color: #fff;
+    border-bottom-color: #fff;
+    font-weight: 600;
+}
+
+.koyfin-table th {
+    font-weight: 500;
+    color: #888;
+    font-size: 11px;
+    padding: 8px;
+    border-bottom: 1px solid #2a2a2a;
+    text-align: right;
+}
+
+.koyfin-table th:first-child {
+    text-align: left;
+}
+
+.koyfin-table td {
+    padding: 8px;
+    font-size: 12px;
+    border-bottom: 1px solid #1f1f1f;
+    text-align: right;
+}
+
+.koyfin-table td:first-child {
+    text-align: left;
+}
+
+.koyfin-table tr:hover td {
+    background-color: #1a1a1a;
+}

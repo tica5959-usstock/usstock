@@ -1,0 +1,25 @@
+ticker,name,category,current_price,vol_ratio,price_5d,price_20d,obv_trend,flow_score,flow_direction
+SPY,S&P 500,Broad Market,683.17,0.81,-1.04,0.19,-10.27,27,Strong Outflow
+QQQ,NASDAQ 100,Broad Market,613.12,0.79,-1.73,-1.54,-41.07,17,Strong Outflow
+IWM,Russell 2000,Broad Market,248.78,0.79,-1.56,-0.01,-625.19,17,Strong Outflow
+DIA,Dow Jones,Broad Market,483.63,0.82,-0.69,1.1,60.36,65,Strong Inflow
+XLK,Technology,Sector,144.3,0.93,-1.37,-0.33,18.95,57,Inflow
+XLF,Financials,Sector,54.93,0.74,-1.44,2.94,100.61,47,Neutral
+XLV,Healthcare,Sector,155.51,0.64,-0.19,0.7,47.72,55,Inflow
+XLE,Energy,Sector,45.65,0.88,2.88,0.27,-24.23,43,Outflow
+XLY,Consumer Discretionary,Sector,118.35,0.87,-3.46,-0.76,-23.26,20,Strong Outflow
+XLP,Consumer Staples,Sector,77.69,0.78,-0.55,-0.66,77.38,55,Inflow
+XLI,Industrials,Sector,157.98,0.67,0.3,2.8,-14.34,25,Strong Outflow
+XLB,Materials,Sector,46.12,0.86,0.61,4.19,25.36,65,Strong Inflow
+XLU,Utilities,Sector,43.18,0.72,0.86,-0.68,5.47,45,Neutral
+XLRE,Real Estate,Sector,40.38,1.04,-0.15,-0.61,64.01,65,Strong Inflow
+XLC,Communication Services,Sector,116.9,0.85,-1.01,1.87,117.84,57,Inflow
+VTI,Total Market,Broad Market,336.31,1.01,-1.05,0.21,-0.72,42,Outflow
+VOO,S&P 500 (Vanguard),Broad Market,628.3,0.5,-1.02,0.21,167.28,47,Neutral
+GLD,Gold,Thematic,398.28,1.15,-3.31,2.95,147.64,50,Neutral
+SLV,Silver,Thematic,65.75,1.73,0.81,23.89,124.73,85,Strong Inflow
+USO,Oil,Thematic,68.96,0.72,-1.77,-2.41,-162.86,17,Strong Outflow
+TLT,Long-Term Treasury,Thematic,87.03,0.97,-1.14,-1.9,-411.99,27,Strong Outflow
+IEF,Mid-Term Treasury,Thematic,96.08,0.72,-0.28,-0.6,-129.2,25,Strong Outflow
+HYG,High Yield Bonds,Thematic,80.67,0.62,0.04,0.45,14.04,55,Inflow
+LQD,Investment Grade Bonds,Thematic,110.16,0.77,-0.44,-0.52,-60.44,25,Strong Outflow

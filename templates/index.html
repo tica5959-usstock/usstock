@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Market - AI Stock Analysis</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lightweight-charts@3.8.0/dist/lightweight-charts.standalone.production.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body class="flex flex-col h-screen w-screen text-sm bg-[#121212]">
+
+    <!-- Top Navigation Bar -->
+    <header class="h-14 border-b koyfin-border flex items-center px-4 justify-between shrink-0 bg-[#121212]">
+        <div class="flex items-center gap-4">
+            <!-- Sidebar Toggle / Menu -->
+            <button class="text-gray-400 hover:text-white"><i class="fas fa-bars"></i></button>
+
+            <!-- Breadcrumb / Title Area -->
+            <div class="flex items-center gap-2 text-sm">
+                <button class="text-gray-500 hover:text-white flex items-center gap-1 text-xs font-medium">
+                    <i class="fas fa-chevron-left"></i> Back
+                </button>
+                <div class="h-4 w-px bg-[#333] mx-2"></div>
+                <h1 id="main-header-title" class="text-lg font-bold text-white tracking-tight">🇺🇸 US Market</h1>
+            </div>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="flex-1 max-w-xl mx-8">
+            <div class="relative group">
+                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                    <i class="fas fa-search text-gray-600 group-focus-within:text-blue-500"></i>
+                </div>
+                <input type="text"
+                    class="block w-full pl-10 pr-3 py-1.5 border border-[#333] rounded bg-[#1a1a1a] text-gray-300 placeholder-gray-600 focus:outline-none focus:border-blue-600 focus:ring-1 focus:ring-blue-600 sm:text-sm transition-colors"
+                    placeholder="Search for a name, ticker, or function (/)">
+                <div class="absolute inset-y-0 right-0 pr-2 flex items-center pointer-events-none">
+                    <span class="text-gray-600 text-xs border border-[#333] rounded px-1.5">/</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="flex items-center gap-2">
+            <button
+                class="bg-[#1a1a1a] hover:bg-[#2a2a2a] text-gray-300 border border-[#333] px-3 py-1.5 rounded text-xs font-medium flex items-center gap-2 transition-colors">
+                <i class="far fa-file-alt"></i> Create Report
+            </button>
+            <button
+                class="bg-[#1a1a1a] hover:bg-[#2a2a2a] text-gray-300 border border-[#333] px-3 py-1.5 rounded text-xs font-medium flex items-center gap-2 transition-colors">
+                <i class="far fa-sticky-note"></i> My Notes
+            </button>
+            <button
+                class="bg-[#1a1a1a] hover:bg-[#2a2a2a] text-gray-300 border border-[#333] px-3 py-1.5 rounded text-xs font-medium flex items-center gap-2 transition-colors">
+                <i class="fas fa-share-alt"></i> Share
+            </button>
+        </div>
+    </header>
+
+    <!-- Tab Navigation -->
+    <div class="h-10 border-b koyfin-border flex items-center px-4 gap-1 bg-[#121212] shrink-0">
+        <div class="nav-tab active" onclick="switchMarketTab(this, '🇺🇸 US Market')">🇺🇸 US Market</div>
+        <div class="nav-tab" onclick="switchMarketTab(this, 'Economic Calendar')">Economic Calendar</div>
+        <!-- Removed KR Market tab as this is US dashboard focus -->
+    </div>
+
+    <!-- Main Content Area (Scrollable) -->
+    <main class="flex-1 overflow-auto p-4 bg-[#121212]">
+        
+        <!-- US Market Content -->
+        <div id="content-us-market">
+            <!-- Market Indices Section -->
+            <section class="mb-6">
+                <div class="flex items-center justify-between mb-2">
+                    <h2 class="text-sm font-bold text-gray-300">🇺🇸 US Market Indices</h2>
+                    <div class="flex items-center gap-3">
+                        <div id="lang-toggle" class="flex items-center gap-1 bg-[#2a2a2a] rounded-full p-0.5">
+                            <button data-lang="ko"
+                                class="px-2 py-0.5 text-xs rounded-full bg-blue-600 text-white transition-colors">한국어</button>
+                            <button data-lang="en"
+                                class="px-2 py-0.5 text-xs rounded-full text-gray-400 hover:text-white transition-colors">English</button>
+                        </div>
+                        <span class="text-xs text-gray-500">Real-time Data</span>
+                    </div>
+                </div>
+                <div id="us-market-indices-container" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+                    <!-- Populated by JS -->
+                    <div
+                        class="bg-[#1a1a1a] border border-[#2a2a2a] rounded p-3 flex flex-col items-center justify-center h-20 animate-pulse">
+                        <div class="h-3 w-16 bg-[#2a2a2a] rounded mb-2"></div>
+                        <div class="h-4 w-20 bg-[#2a2a2a] rounded"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- US Stock Chart Section -->
+            <section class="mb-6">
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-4">
+                    <!-- Chart -->
+                    <div class="lg:col-span-2 bg-[#1a1a1a] border border-[#2a2a2a] rounded p-4">
+                        <div class="flex items-center justify-between mb-3">
+                            <div>
+                                <h2 id="us-chart-ticker" class="text-lg font-bold text-white">Select a stock</h2>
+                                <span id="us-chart-info" class="text-xs text-gray-400">Click on a stock from the table
+                                    below</span>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <div id="us-chart-period-btns" class="flex gap-1">
+                                    <button data-period="1mo"
+                                        class="px-2 py-1 text-xs rounded bg-gray-700 text-gray-300 hover:bg-blue-600 hover:text-white transition-colors">1M</button>
+                                    <button data-period="3mo"
+                                        class="px-2 py-1 text-xs rounded bg-gray-700 text-gray-300 hover:bg-blue-600 hover:text-white transition-colors">3M</button>
+                                    <button data-period="6mo"
+                                        class="px-2 py-1 text-xs rounded bg-gray-700 text-gray-300 hover:bg-blue-600 hover:text-white transition-colors">6M</button>
+                                    <button data-period="1y"
+                                        class="px-2 py-1 text-xs rounded bg-blue-600 text-white">1Y</button>
+                                    <button data-period="max"
+                                        class="px-2 py-1 text-xs rounded bg-gray-700 text-gray-300 hover:bg-blue-600 hover:text-white transition-colors">ALL</button>
+                                </div>
+                                <div id="us-chart-grade"
+                                    class="px-3 py-1 rounded text-sm font-bold bg-gray-700 text-gray-300">-</div>
+                            </div>
+                        </div>
+                        <div id="us-stock-chart" class="h-[300px] flex items-center justify-center text-gray-500">
+                            <i class="fas fa-chart-line text-3xl"></i>
+                        </div>
+                        <!-- Technical Indicator Toggles -->
+                        <div class="flex items-center gap-2 mt-3 pt-3 border-t border-gray-700">
+                            <span class="text-xs text-gray-500">Indicators:</span>
+                            <button id="toggle-bb" onclick="toggleIndicator('bb')"
+                                class="px-2 py-1 text-xs rounded bg-gray-700 text-gray-300 hover:bg-purple-600 transition-colors">📊
+                                BB</button>
+                            <button id="toggle-sr" onclick="toggleIndicator('sr')"
+                                class="px-2 py-1 text-xs rounded bg-gray-700 text-gray-300 hover:bg-orange-600 transition-colors">📏
+                                S/R</button>
+                            <button id="toggle-rsi" onclick="toggleIndicator('rsi')"
+                                class="px-2 py-1 text-xs rounded bg-gray-700 text-gray-300 hover:bg-green-600 transition-colors">📈
+                                RSI</button>
+                            <button id="toggle-macd" onclick="toggleIndicator('macd')"
+                                class="px-2 py-1 text-xs rounded bg-gray-700 text-gray-300 hover:bg-blue-600 transition-colors">📉
+                                MACD</button>
+                        </div>
+                        <!-- RSI Sub-Chart -->
+                        <div id="us-rsi-chart" class="hidden h-[80px] mt-2 border-t border-gray-700 pt-2"></div>
+                        <!-- MACD Sub-Chart -->
+                        <div id="us-macd-chart" class="hidden h-[80px] mt-2 border-t border-gray-700 pt-2"></div>
+                    </div>
+                    <!-- Sector Heatmap -->
+                    <div class="bg-[#1a1a1a] border border-[#2a2a2a] rounded p-4">
+                        <div class="flex justify-between items-center mb-3">
+                            <h3 class="text-sm font-bold text-gray-400"><i
+                                    class="fas fa-globe-americas text-blue-400 mr-1"></i> Market Map</h3>
+                            <span id="us-heatmap-date" class="text-xs text-gray-500"></span>
+                        </div>
+                        <div id="us-sector-heatmap" class="w-full h-[300px] relative">
+                            <!-- ApexCharts Treemap will be rendered here -->
+                            <div class="flex items-center justify-center h-full text-xs text-gray-500">Loading Market
+                                Map...</div>
+                        </div>
+                    </div>
+                </div>
+                <!-- AI Summary Section -->
+                <div class="mt-4 bg-[#1a1a1a] border border-[#2a2a2a] rounded p-4">
+                    <div class="flex items-center justify-between mb-2">
+                        <h3 class="text-sm font-bold text-purple-400" data-i18n="ai-analysis">🤖 AI 투자 분석</h3>
+                        <span id="us-ai-updated" class="text-xs text-gray-500"></span>
+                    </div>
+                    <div id="us-ai-summary" class="text-sm text-gray-300 leading-relaxed">
+                        <span class="text-gray-500">종목을 선택하면 AI 분석이 표시됩니다.</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Smart Money Picks Section -->
+            <section class="mb-6">
+                <div class="flex items-center justify-between mb-2">
+                    <div class="flex items-center gap-3">
+                        <h2 class="text-sm font-bold text-gray-300" data-i18n="final-top10">📊 Final Top 10 - Smart
+                            Money Picks</h2>
+                        <select id="us-history-date-select"
+                            class="bg-[#1a1a1a] border border-[#2a2a2a] rounded px-2 py-1 text-xs text-gray-300"
+                            onchange="loadUSHistoryByDate(this.value)">
+                            <option value="">📅 날짜 선택</option>
+                        </select>
+                    </div>
+                    <span id="us-smart-money-summary" class="text-xs text-gray-500">Loading...</span>
+                </div>
+                <div class="overflow-x-auto">
+                    <table class="w-full text-sm">
+                        <thead>
+                            <tr class="bg-[#1a1a1a] text-gray-400 text-xs">
+                                <th class="p-2 text-left">#</th>
+                                <th class="p-2 text-left">Ticker</th>
+                                <th class="p-2 text-center">Sector</th>
+                                <th class="p-2 text-center">Score</th>
+                                <th class="p-2 text-center">AI 추천</th>
+                                <th class="p-2 text-center">추천가</th>
+                                <th class="p-2 text-center">현재가</th>
+                                <th class="p-2 text-center">변동</th>
+                                <th class="p-2 text-center">목표 Upside</th>
+                            </tr>
+                        </thead>
+                        <tbody id="us-smart-money-table">
+                            <tr class="animate-pulse">
+                                <td colspan="9" class="p-4 text-center text-gray-500">Loading...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- ETF Flows Section -->
+            <section class="mb-6">
+                <div class="flex items-center justify-between mb-2">
+                    <div class="flex items-center">
+                        <h2 class="text-sm font-bold text-gray-300" data-i18n="etf-flows">💰 ETF Fund Flows - 자금 흐름</h2>
+                        <button id="us-etf-ai-btn"
+                            class="hidden ml-2 px-2 py-0.5 text-xs rounded-full bg-indigo-600 hover:bg-indigo-500 text-white transition-colors">
+                            🤖 AI 분석
+                        </button>
+                    </div>
+                    <span id="us-etf-sentiment"
+                        class="text-xs px-2 py-1 rounded bg-gray-700 text-gray-300">Loading...</span>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <!-- Top Inflows -->
+                    <div class="bg-[#1a1a1a] rounded border border-[#2a2a2a] p-4">
+                        <h3 class="text-xs text-green-400 font-bold mb-2" data-i18n="top-inflows">📈 Top Inflows</h3>
+                        <div id="us-etf-inflows" class="space-y-2"></div>
+                    </div>
+                    <!-- Top Outflows -->
+                    <div class="bg-[#1a1a1a] rounded border border-[#2a2a2a] p-4">
+                        <h3 class="text-xs text-red-400 font-bold mb-2" data-i18n="top-outflows">📉 Top Outflows</h3>
+                        <div id="us-etf-outflows" class="space-y-2"></div>
+                    </div>
+                    <!-- AI Analysis Container -->
+                    <div id="us-etf-ai-container"
+                        class="hidden mt-4 col-span-2 bg-[#1e1e1e] border border-indigo-500/30 rounded p-4">
+                        <div class="flex items-center gap-2 mb-2">
+                            <span class="text-lg">🧠</span>
+                            <span class="text-sm font-bold text-indigo-300">Gemini 3.0 Market Insight</span>
+                        </div>
+                        <div id="us-etf-ai-content" class="text-sm text-gray-300 leading-relaxed whitespace-pre-wrap">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Options Flow Section -->
+            <section class="mb-6">
+                <div class="flex items-center justify-between mb-2">
+                    <h2 class="text-sm font-bold text-gray-300"><i class="fas fa-chart-area text-orange-400 mr-1"></i>
+                        <span data-i18n="options-flow">Options Flow - 기관 포지션</span>
+                    </h2>
+                    <span id="us-options-timestamp" class="text-xs text-gray-500"></span>
+                </div>
+                <div class="grid grid-cols-2 md:grid-cols-5 gap-3" id="us-options-flow">
+                    <div class="text-center text-xs text-gray-500">Loading options...</div>
+                </div>
+            </section>
+
+            <!-- Macro Analysis Section -->
+            <section class="mb-6">
+                <div class="flex items-center justify-between mb-2">
+                    <h2 class="text-sm font-bold text-gray-300" data-i18n="macro-analysis">🌍 Macro Analysis - AI 예측
+                    </h2>
+                    <span id="us-macro-timestamp" class="text-xs text-gray-500"></span>
+                </div>
+
+                <!-- Macro Indicators Grid -->
+                <div class="grid grid-cols-5 md:grid-cols-10 gap-2 mb-4" id="us-macro-indicators">
+                    <div class="text-center text-xs text-gray-500">Loading...</div>
+                </div>
+
+                <!-- AI Analysis Card -->
+                <div
+                    class="bg-gradient-to-r from-purple-900/30 to-blue-900/30 rounded-lg border border-purple-800/50 p-4">
+                    <div class="flex items-center justify-between mb-3">
+                        <div class="flex items-center gap-2">
+                            <span class="text-lg">🤖</span>
+                            <span id="macro-model-label" class="text-sm font-bold text-purple-300"
+                                data-i18n="gemini-macro">Gemini 3.0 매크로 분석</span>
+                        </div>
+                        <!-- Model Toggle Button -->
+                        <div id="model-toggle" class="flex items-center gap-1 bg-[#2a2a2a] rounded-full p-0.5">
+                            <button data-model="gemini"
+                                class="px-2 py-0.5 text-xs rounded-full bg-purple-600 text-white transition-colors">Gemini</button>
+                            <button data-model="gpt"
+                                class="px-2 py-0.5 text-xs rounded-full text-gray-400 hover:text-white transition-colors">GPT-5.2</button>
+                        </div>
+                    </div>
+                    <div id="us-macro-ai-analysis" class="text-sm text-gray-300 leading-relaxed whitespace-pre-wrap">
+                        분석 로딩 중...
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- Weekly Economic Calendar Tab Content -->
+        <div id="content-economic-calendar" class="hidden p-4 space-y-6">
+            <h2 class="text-xl font-bold text-gray-200 mb-4">Economic Calendar</h2>
+            <!-- Weekly Economic Calendar (Moved) -->
+            <div class="mb-4 bg-[#1a1a1a] border border-[#2a2a2a] rounded p-4 max-w-2xl">
+                <div class="flex items-center justify-between mb-3">
+                    <div class="flex items-center gap-3">
+                        <h3 class="text-sm font-bold text-gray-300">📅 Weekly Economic Calendar</h3>
+                        <span id="us-calendar-range" class="text-xs text-gray-500"></span>
+                    </div>
+                    <div class="flex gap-2">
+                        <button onclick="expandAllCalendarEvents()"
+                            class="px-2 py-1 text-[10px] bg-gray-800 hover:bg-gray-700 text-gray-300 rounded transition-colors">
+                            🔽 Expand All
+                        </button>
+                        <button onclick="collapseAllCalendarEvents()"
+                            class="px-2 py-1 text-[10px] bg-gray-800 hover:bg-gray-700 text-gray-300 rounded transition-colors">
+                            🔼 Collapse All
+                        </button>
+                    </div>
+                </div>
+                <div id="us-calendar-events" class="space-y-2">
+                    <div class="text-center text-xs text-gray-500">Loading calendar...</div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <script src="/static/js/dashboard.js"></script>
+</body>
+
+</html>
