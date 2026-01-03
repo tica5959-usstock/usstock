@@ -15,6 +15,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GH_TOKEN }} # PAT 사용 (권한 문제 해결)
       
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -38,10 +40,10 @@ jobs:
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         
-        # 대용량 파일은 제외하고 나머지 변경사항만 추가
+        # 파일 추가 및 불필요한 파일 제외 (에러 방지 처리)
         git add .
-        git reset us_daily_prices.csv
-        git reset *.png
+        git reset us_daily_prices.csv 2>/dev/null || true
+        git reset *.png 2>/dev/null || true
         
         git commit -m "Auto-update data (Daily)" || echo "No changes to commit"
         git push origin HEAD:main
