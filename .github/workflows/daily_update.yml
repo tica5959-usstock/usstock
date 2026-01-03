@@ -1,0 +1,45 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    # 매일 한국 시간 아침 6시 (UTC 21:00) 실행
+    - cron: '0 21 * * 1-5'
+  workflow_dispatch:  # 수동 실행 버튼 추가
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        
+    - name: Run Data Update
+      env:
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+      run: |
+        python update_all.py
+        
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        
+        # 대용량 파일은 제외하고 나머지 변경사항만 추가
+        git add .
+        git reset us_daily_prices.csv
+        git reset *.png
+        
+        git commit -m "Auto-update data (Daily)" || echo "No changes to commit"
+        git push
