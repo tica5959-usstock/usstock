@@ -2,5 +2,4 @@
 .venv
 __pycache__
 *.pyc
-us_daily_prices.csv
 google_token.json

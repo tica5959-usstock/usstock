@@ -47,8 +47,11 @@ class FinalReportGenerator:
                 'quant_score': row['composite_score'],
                 'ai_recommendation': rec,
                 'current_price': row['current_price'],
+                'price_at_analysis': row['current_price'],  # 분석 시점 가격 저장
+                'target_upside': row.get('target_upside', 0),  # 목표 Upside
                 'ai_summary': summary,
-                'sector': row.get('sector', 'N/A')
+                'sector': row.get('sector', 'N/A'),
+                'grade': row.get('grade', 'N/A')
             })
             
         # Sort and Rank
@@ -57,12 +60,29 @@ class FinalReportGenerator:
         for i, p in enumerate(top_picks, 1): p['rank'] = i
         
         # Save Report
-        with open(os.path.join(self.data_dir, 'final_top10_report.json'), 'w') as f:
+        with open(os.path.join(self.data_dir, 'final_top10_report.json'), 'w', encoding='utf-8') as f:
             json.dump({'top_picks': top_picks}, f, indent=2, ensure_ascii=False)
             
-        # Save for Dashboard
-        with open(os.path.join(self.data_dir, 'smart_money_current.json'), 'w') as f:
-            json.dump({'picks': top_picks}, f, indent=2, ensure_ascii=False)
+        # Save for Dashboard with timestamp
+        now = datetime.now()
+        date_str = now.strftime('%Y-%m-%d')
+        
+        dashboard_data = {
+            'analysis_date': date_str,
+            'analysis_timestamp': now.isoformat(),
+            'picks': top_picks
+        }
+        
+        with open(os.path.join(self.data_dir, 'smart_money_current.json'), 'w', encoding='utf-8') as f:
+            json.dump(dashboard_data, f, indent=2, ensure_ascii=False)
+        
+        # Save to history directory for date picker
+        history_dir = os.path.join(self.data_dir, 'history')
+        os.makedirs(history_dir, exist_ok=True)
+        
+        history_file = os.path.join(history_dir, f'picks_{date_str}.json')
+        with open(history_file, 'w', encoding='utf-8') as f:
+            json.dump(dashboard_data, f, indent=2, ensure_ascii=False)
             
         print(f"Generated Final Report for {len(top_picks)} stocks")
 

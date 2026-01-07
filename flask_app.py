@@ -586,7 +586,15 @@ def get_us_macro_analysis():
             with open(analysis_path, 'r', encoding='utf-8') as f:
                 cached = json.load(f)
                 ai_analysis = cached.get('ai_analysis', ai_analysis)
-                macro_indicators = cached.get('macro_indicators', {})
+                raw_indicators = cached.get('macro_indicators', {})
+                
+                # Convert 'value' to 'current' for consistency with frontend
+                for key, val in raw_indicators.items():
+                    if isinstance(val, dict):
+                        macro_indicators[key] = {
+                            'current': val.get('current', val.get('value', 0)),
+                            'change_1d': val.get('change_1d', 0)
+                        }
         
         # === UPDATE KEY INDICATORS WITH LIVE DATA ===
         live_tickers = {
