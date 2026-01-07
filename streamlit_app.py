@@ -432,11 +432,16 @@ def main():
     """, unsafe_allow_html=True)
     
     # ===== Section 4: Smart Money Picks =====
-    st.markdown("""
-    <div class="section-header" style="margin-top: 24px;">
-        <span class="section-title">📊 Final Top 10 - Smart Money Picks</span>
-    </div>
-    """, unsafe_allow_html=True)
+    history_dates = load_history_dates()
+    
+    col_title, col_date = st.columns([3, 1])
+    with col_title:
+        st.markdown("""
+        <div class="section-title" style="margin-top: 24px;">📊 Final Top 10 - Smart Money Picks</div>
+        """, unsafe_allow_html=True)
+    with col_date:
+        date_options = ["📅 날짜 선택"] + history_dates
+        selected_date = st.selectbox("날짜", date_options, key="history_date", label_visibility="collapsed")
     
     picks = smart_money.get('picks', [])
     if picks:
