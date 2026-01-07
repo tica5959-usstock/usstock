@@ -1,52 +1,52 @@
 {
-  "timestamp": "2026-01-03T21:11:36.621398",
+  "timestamp": "2026-01-07T19:39:16.544391",
   "summary": {
     "total_etfs": 24,
-    "inflows": 9,
-    "outflows": 11
+    "inflows": 20,
+    "outflows": 4
   },
   "top_inflows": [
     {
-      "name": "Silver",
-      "flow_score": 85
-    },
-    {
-      "name": "Dow Jones",
-      "flow_score": 65
-    },
-    {
       "name": "Materials",
-      "flow_score": 65
+      "flow_score": 90
     },
     {
-      "name": "Real Estate",
-      "flow_score": 65
+      "name": "Silver",
+      "flow_score": 90
     },
     {
-      "name": "Technology",
-      "flow_score": 57
+      "name": "Energy",
+      "flow_score": 83
+    },
+    {
+      "name": "Industrials",
+      "flow_score": 80
+    },
+    {
+      "name": "Gold",
+      "flow_score": 80
     }
   ],
   "top_outflows": [
     {
-      "name": "NASDAQ 100",
-      "flow_score": 17
-    },
-    {
-      "name": "Russell 2000",
-      "flow_score": 17
-    },
-    {
       "name": "Oil",
-      "flow_score": 17
+      "flow_score": 27
     },
     {
-      "name": "Consumer Discretionary",
-      "flow_score": 20
+      "name": "Long-Term Treasury",
+      "flow_score": 35
     },
     {
-      "name": "Industrials",
-      "flow_score": 25
+      "name": "Mid-Term Treasury",
+      "flow_score": 35
+    },
+    {
+      "name": "Investment Grade Bonds",
+      "flow_score": 35
+    },
+    {
+      "name": "S&P 500 (Vanguard)",
+      "flow_score": 55
     }
   ],
   "ai_analysis": "AI 분석 생성 실패"
