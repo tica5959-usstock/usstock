@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-01-07T19:39:16.544391",
+  "timestamp": "2026-01-26T21:51:46.557916",
   "summary": {
     "total_etfs": 24,
     "inflows": 20,
-    "outflows": 4
+    "outflows": 3
   },
   "top_inflows": [
     {
-      "name": "Materials",
-      "flow_score": 90
+      "name": "Gold",
+      "flow_score": 100
     },
     {
       "name": "Silver",
@@ -16,36 +16,36 @@
     },
     {
       "name": "Energy",
-      "flow_score": 83
-    },
-    {
-      "name": "Industrials",
       "flow_score": 80
     },
     {
-      "name": "Gold",
-      "flow_score": 80
+      "name": "Russell 2000",
+      "flow_score": 75
+    },
+    {
+      "name": "Long-Term Treasury",
+      "flow_score": 75
     }
   ],
   "top_outflows": [
     {
-      "name": "Oil",
+      "name": "Financials",
       "flow_score": 27
     },
     {
-      "name": "Long-Term Treasury",
-      "flow_score": 35
+      "name": "Healthcare",
+      "flow_score": 43
+    },
+    {
+      "name": "Communication Services",
+      "flow_score": 43
     },
     {
       "name": "Mid-Term Treasury",
-      "flow_score": 35
+      "flow_score": 45
     },
     {
-      "name": "Investment Grade Bonds",
-      "flow_score": 35
-    },
-    {
-      "name": "S&P 500 (Vanguard)",
+      "name": "NASDAQ 100",
       "flow_score": 55
     }
   ],
