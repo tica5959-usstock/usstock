@@ -1,504 +1,504 @@
 ticker,institutional_pct,insider_pct,short_pct,float_shares_m,num_inst_holders,insider_buys,insider_sells,insider_sentiment,institutional_score,institutional_stage
-A,93.05,0.32,1.54,282.52,10,0,0,Neutral,70,Strong Institutional Support
+A,93.03,0.32,1.54,282.52,10,0,0,Neutral,70,Strong Institutional Support
 AAL,70.8,1.48,6.09,650.62,10,0,0,Neutral,60,Institutional Support
-AAPL,64.81,1.7,0.76,14750.79,10,0,0,Neutral,65,Institutional Support
-ABBV,75.12,0.1,1.12,1763.92,10,0,0,Neutral,65,Institutional Support
-ABNB,85.75,1.49,4.3,409.64,10,0,0,Neutral,65,Institutional Support
-ABT,81.53,0.54,1.01,1728.58,10,0,0,Neutral,70,Strong Institutional Support
-ACGL,93.88,3.19,1.92,350.12,10,0,0,Neutral,70,Strong Institutional Support
-ACN,82.95,0.08,2.06,614.17,10,0,0,Neutral,70,Strong Institutional Support
-ADBE,87.55,0.22,2.96,409.3,10,0,0,Neutral,70,Strong Institutional Support
-ADI,93.75,0.25,2.08,487.9,10,0,0,Neutral,70,Strong Institutional Support
-ADM,86.74,0.61,3.98,475.04,10,0,0,Neutral,65,Institutional Support
+AAPL,64.82,1.7,0.76,14750.79,10,0,0,Neutral,65,Institutional Support
+ABBV,75.07,0.1,1.12,1763.92,10,0,0,Neutral,65,Institutional Support
+ABNB,85.77,1.49,4.3,409.64,10,0,0,Neutral,65,Institutional Support
+ABT,81.6,0.54,1.01,1728.58,10,0,0,Neutral,70,Strong Institutional Support
+ACGL,93.86,3.19,1.92,350.12,10,0,0,Neutral,70,Strong Institutional Support
+ACN,82.94,0.08,2.06,614.17,10,0,0,Neutral,70,Strong Institutional Support
+ADBE,87.52,0.22,2.96,409.3,10,0,0,Neutral,70,Strong Institutional Support
+ADI,93.96,0.23,2.08,487.9,10,0,0,Neutral,70,Strong Institutional Support
+ADM,86.75,0.61,3.98,475.04,10,0,0,Neutral,65,Institutional Support
 ADP,86.88,0.15,1.92,403.55,10,0,0,Neutral,70,Strong Institutional Support
-ADSK,96.0,0.21,2.04,211.48,10,0,0,Neutral,70,Strong Institutional Support
-AEE,87.43,0.3,3.8,269.2,10,0,0,Neutral,65,Institutional Support
-AEP,87.17,0.25,3.38,534.45,10,0,0,Neutral,65,Institutional Support
+ADSK,95.99,0.21,2.04,211.48,10,0,0,Neutral,70,Strong Institutional Support
+AEE,87.42,0.3,3.8,269.2,10,0,0,Neutral,65,Institutional Support
+AEP,87.26,0.25,3.38,534.45,10,0,0,Neutral,65,Institutional Support
 AES,91.44,0.46,3.42,708.05,10,0,0,Neutral,65,Institutional Support
-AFL,60.35,10.72,1.37,519.94,10,0,0,Neutral,65,Institutional Support
+AFL,60.29,10.72,1.37,519.94,10,0,0,Neutral,65,Institutional Support
 AIG,100.74,0.25,2.63,538.01,10,0,0,Neutral,70,Strong Institutional Support
-AIZ,96.5,0.62,2.03,49.79,10,0,0,Neutral,70,Strong Institutional Support
+AIZ,96.45,0.62,2.03,49.79,10,0,0,Neutral,70,Strong Institutional Support
 AJG,91.57,0.92,2.16,253.9,10,0,0,Neutral,70,Strong Institutional Support
-AKAM,99.62,1.95,11.07,140.67,10,0,0,Neutral,55,Institutional Support
-ALB,96.07,0.34,12.02,117.27,10,0,0,Neutral,55,Institutional Support
-ALGN,97.08,6.76,4.29,67.22,10,0,0,Neutral,65,Institutional Support
+AKAM,99.73,1.95,11.07,140.67,10,0,0,Neutral,55,Institutional Support
+ALB,95.96,0.34,12.02,117.27,10,0,0,Neutral,55,Institutional Support
+ALGN,97.2,6.76,4.29,67.22,10,0,0,Neutral,65,Institutional Support
 ALL,81.44,0.55,2.08,260.17,10,0,0,Neutral,70,Strong Institutional Support
-ALLE,99.13,1.12,3.16,84.83,10,0,0,Neutral,65,Institutional Support
-AMAT,85.49,0.28,1.77,789.4,10,0,0,Neutral,70,Strong Institutional Support
-AMCR,67.93,0.24,4.64,458.79,1,0,0,Unknown,60,Institutional Support
-AMD,70.25,0.44,2.27,1619.04,10,0,0,Neutral,65,Institutional Support
-AME,90.98,0.36,1.57,228.93,10,0,0,Neutral,70,Strong Institutional Support
-AMGN,84.08,0.21,2.79,537.12,10,0,0,Neutral,70,Strong Institutional Support
-AMP,89.06,0.19,3.63,92.54,10,0,0,Neutral,65,Institutional Support
-AMT,95.25,0.15,1.57,466.77,10,0,0,Neutral,70,Strong Institutional Support
-AMZN,66.8,9.18,0.76,9701.91,10,0,0,Neutral,65,Institutional Support
-ANET,69.86,17.94,1.38,1041.5,10,0,0,Neutral,65,Institutional Support
+ALLE,99.34,1.12,3.16,84.83,10,0,0,Neutral,65,Institutional Support
+AMAT,85.45,0.28,1.77,789.4,10,0,0,Neutral,70,Strong Institutional Support
+AMCR,67.88,0.24,4.64,458.79,1,0,0,Unknown,60,Institutional Support
+AMD,70.29,0.44,2.27,1619.04,10,0,0,Neutral,65,Institutional Support
+AME,90.97,0.36,1.57,228.93,10,0,0,Neutral,70,Strong Institutional Support
+AMGN,84.1,0.21,2.79,537.12,10,0,0,Neutral,70,Strong Institutional Support
+AMP,89.09,0.19,3.63,92.54,10,0,0,Neutral,65,Institutional Support
+AMT,95.26,0.15,1.57,466.77,10,0,0,Neutral,70,Strong Institutional Support
+AMZN,66.81,9.18,0.76,9701.91,10,0,0,Neutral,65,Institutional Support
+ANET,69.84,17.94,1.38,1041.5,10,0,0,Neutral,65,Institutional Support
 ANSS,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-AON,87.61,3.04,0.91,208.09,10,0,0,Neutral,70,Strong Institutional Support
-AOS,98.97,0.73,4.46,112.21,10,0,0,Neutral,65,Institutional Support
-APA,99.38,0.43,10.55,352.46,10,0,0,Neutral,55,Institutional Support
+AON,87.57,3.04,0.91,208.09,10,0,0,Neutral,70,Strong Institutional Support
+AOS,98.95,0.73,4.46,112.21,10,0,0,Neutral,65,Institutional Support
+APA,99.32,0.43,10.55,352.46,10,0,0,Neutral,55,Institutional Support
 APD,94.88,1.92,2.81,222.28,10,0,0,Neutral,70,Strong Institutional Support
-APH,97.85,0.54,1.14,1216.25,10,0,0,Neutral,70,Strong Institutional Support
-APTV,101.82,0.46,3.99,214.05,10,0,0,Neutral,65,Institutional Support
-ARE,97.59,1.14,7.15,153.62,10,0,0,Neutral,65,Institutional Support
-ATO,102.04,0.39,3.62,161.02,10,0,0,Neutral,65,Institutional Support
+APH,97.87,0.54,1.14,1216.25,10,0,0,Neutral,70,Strong Institutional Support
+APTV,101.86,0.46,3.99,214.05,10,0,0,Neutral,65,Institutional Support
+ARE,97.78,1.14,7.15,154.04,10,0,0,Neutral,65,Institutional Support
+ATO,102.0,0.39,3.62,161.02,10,0,0,Neutral,65,Institutional Support
 AVB,96.7,0.36,5.99,133.02,10,0,0,Neutral,65,Institutional Support
-AVGO,78.93,2.01,1.32,405.87,10,0,0,Neutral,65,Institutional Support
-AVY,96.62,0.81,3.41,76.61,10,0,0,Neutral,65,Institutional Support
-AWK,98.62,0.12,5.69,194.72,10,0,0,Neutral,65,Institutional Support
-AXON,87.43,4.46,3.22,75.14,10,0,0,Neutral,65,Institutional Support
+AVGO,78.92,2.01,1.32,405.87,10,0,0,Neutral,65,Institutional Support
+AVY,96.7,0.81,3.41,76.61,10,0,0,Neutral,65,Institutional Support
+AWK,98.73,0.12,5.69,194.72,10,0,0,Neutral,65,Institutional Support
+AXON,87.52,4.46,3.22,75.14,10,0,0,Neutral,65,Institutional Support
 AXP,65.07,22.14,1.71,535.91,10,0,0,Neutral,65,Institutional Support
-AZO,94.36,0.24,1.79,16.51,10,0,0,Neutral,70,Strong Institutional Support
-BA,71.97,0.07,1.99,728.27,10,0,0,Neutral,65,Institutional Support
-BAC,71.0,7.97,1.24,7186.36,10,0,0,Neutral,65,Institutional Support
-BALL,89.69,0.31,2.67,266.92,10,0,0,Neutral,70,Strong Institutional Support
-BAX,106.04,0.37,10.0,511.93,10,0,0,Neutral,65,Institutional Support
-BBWI,111.07,0.37,6.83,203.66,10,0,0,Neutral,65,Institutional Support
-BBY,91.12,7.55,11.79,194.38,10,0,0,Neutral,55,Institutional Support
-BDX,94.39,0.38,2.4,284.71,10,0,0,Neutral,70,Strong Institutional Support
-BEN,47.14,48.33,6.55,303.84,10,0,0,Neutral,50,Neutral
-BF-B,75.16,2.9,15.41,325.61,10,0,0,Neutral,50,Neutral
-BG,75.39,34.74,4.04,126.39,10,0,0,Neutral,60,Institutional Support
-BIIB,94.12,0.15,3.93,146.26,10,0,0,Neutral,65,Institutional Support
-BIO,94.72,16.27,4.5,21.12,10,0,0,Neutral,65,Institutional Support
-BK,89.64,0.19,1.26,686.72,10,0,0,Neutral,70,Strong Institutional Support
-BKNG,96.42,0.16,2.07,32.14,10,0,0,Neutral,70,Strong Institutional Support
-BKR,102.18,0.13,4.65,984.8,10,0,0,Neutral,65,Institutional Support
-BLDR,103.27,2.62,5.83,107.55,10,0,0,Neutral,65,Institutional Support
-BLK,83.35,1.96,0.8,143.99,10,0,0,Neutral,70,Strong Institutional Support
-BMY,82.01,0.08,1.8,2032.48,10,0,0,Neutral,70,Strong Institutional Support
-BR,94.53,0.46,2.05,116.15,10,0,0,Neutral,70,Strong Institutional Support
+AZO,94.34,0.24,1.79,16.51,10,0,0,Neutral,70,Strong Institutional Support
+BA,71.99,0.07,1.99,728.27,10,0,0,Neutral,65,Institutional Support
+BAC,71.01,7.97,1.24,7186.36,10,0,0,Neutral,65,Institutional Support
+BALL,89.52,0.31,2.67,266.92,10,0,0,Neutral,70,Strong Institutional Support
+BAX,106.13,0.37,10.0,511.93,10,0,0,Neutral,65,Institutional Support
+BBWI,111.14,0.37,6.83,203.66,10,0,0,Neutral,65,Institutional Support
+BBY,91.54,7.55,11.79,194.38,10,0,0,Neutral,55,Institutional Support
+BDX,94.29,0.38,2.4,284.71,10,0,0,Neutral,70,Strong Institutional Support
+BEN,47.17,48.33,6.55,303.84,10,0,0,Neutral,50,Neutral
+BF-B,75.1,2.9,15.41,325.61,10,0,0,Neutral,50,Neutral
+BG,75.4,34.74,4.04,126.39,10,0,0,Neutral,60,Institutional Support
+BIIB,94.14,0.15,3.93,146.26,10,0,0,Neutral,65,Institutional Support
+BIO,94.7,16.27,4.5,21.12,10,0,0,Neutral,65,Institutional Support
+BK,89.68,0.19,1.26,686.72,10,0,0,Neutral,70,Strong Institutional Support
+BKNG,96.43,0.16,2.07,32.14,10,0,0,Neutral,70,Strong Institutional Support
+BKR,102.17,0.13,4.65,984.8,10,0,0,Neutral,65,Institutional Support
+BLDR,103.28,2.62,5.83,107.55,10,0,0,Neutral,65,Institutional Support
+BLK,83.35,1.97,0.8,143.99,10,0,0,Neutral,70,Strong Institutional Support
+BMY,82.03,0.08,1.8,2032.48,10,0,0,Neutral,70,Strong Institutional Support
+BR,94.55,0.46,2.05,116.15,10,0,0,Neutral,70,Strong Institutional Support
 BRK-B,65.74,0.39,0.91,1.24,10,0,0,Neutral,65,Institutional Support
-BRO,80.76,13.04,4.94,294.7,10,0,0,Neutral,65,Institutional Support
-BSX,94.48,0.19,1.35,1478.31,10,0,0,Neutral,70,Strong Institutional Support
-BWA,104.17,0.99,6.21,211.91,10,0,0,Neutral,65,Institutional Support
-BX,71.45,0.94,1.46,742.31,10,0,0,Neutral,65,Institutional Support
-BXP,110.27,0.4,9.4,147.02,10,0,0,Neutral,65,Institutional Support
-C,80.86,0.26,1.61,1741.98,10,0,0,Neutral,70,Strong Institutional Support
-CAG,89.61,0.64,8.01,474.96,10,0,0,Neutral,65,Institutional Support
-CAH,91.17,0.27,2.94,237.09,10,0,0,Neutral,70,Strong Institutional Support
-CARR,87.89,6.09,1.83,790.03,10,0,0,Neutral,70,Strong Institutional Support
-CAT,73.97,0.21,1.2,466.6,10,0,0,Neutral,65,Institutional Support
-CB,82.67,8.54,0.92,360.34,10,0,0,Neutral,70,Strong Institutional Support
-CBOE,89.91,0.22,2.98,104.25,10,0,0,Neutral,70,Strong Institutional Support
-CBRE,97.98,0.52,1.15,290.87,10,0,0,Neutral,70,Strong Institutional Support
-CCI,98.89,0.12,2.13,434.59,10,0,0,Neutral,70,Strong Institutional Support
-CCL,76.17,8.31,3.76,1214.19,10,0,0,Neutral,60,Institutional Support
-CDNS,92.34,0.29,1.83,271.11,10,0,0,Neutral,70,Strong Institutional Support
-CDW,95.95,0.38,3.49,129.72,10,0,0,Neutral,65,Institutional Support
+BRO,80.77,13.04,4.94,290.02,10,0,0,Neutral,65,Institutional Support
+BSX,94.49,0.19,1.35,1478.31,10,0,0,Neutral,70,Strong Institutional Support
+BWA,103.97,0.99,6.21,211.91,10,0,0,Neutral,65,Institutional Support
+BX,71.47,0.94,1.46,742.31,10,0,0,Neutral,65,Institutional Support
+BXP,110.32,0.4,9.4,147.02,10,0,0,Neutral,65,Institutional Support
+C,80.87,0.26,1.61,1741.98,10,0,0,Neutral,70,Strong Institutional Support
+CAG,89.62,0.64,8.01,474.96,10,0,0,Neutral,65,Institutional Support
+CAH,91.19,0.27,2.94,237.09,10,0,0,Neutral,70,Strong Institutional Support
+CARR,87.9,6.09,1.83,790.03,10,0,0,Neutral,70,Strong Institutional Support
+CAT,73.98,0.21,1.2,466.6,10,0,0,Neutral,65,Institutional Support
+CB,82.69,8.54,0.92,360.34,10,0,0,Neutral,70,Strong Institutional Support
+CBOE,89.9,0.22,2.98,104.25,10,0,0,Neutral,70,Strong Institutional Support
+CBRE,97.99,0.52,1.15,290.87,10,0,0,Neutral,70,Strong Institutional Support
+CCI,98.92,0.12,2.13,434.59,10,0,0,Neutral,70,Strong Institutional Support
+CCL,76.19,8.31,3.76,1214.19,10,0,0,Neutral,60,Institutional Support
+CDNS,92.33,0.29,1.83,271.11,10,0,0,Neutral,70,Strong Institutional Support
+CDW,95.85,0.38,3.49,129.72,10,0,0,Neutral,65,Institutional Support
 CE,104.08,0.44,9.27,108.92,10,0,0,Neutral,65,Institutional Support
 CEG,92.36,0.35,2.26,292.37,10,0,0,Neutral,70,Strong Institutional Support
-CF,105.45,0.74,10.88,154.24,10,0,0,Neutral,55,Institutional Support
-CFG,98.39,0.74,4.56,425.13,10,0,0,Neutral,65,Institutional Support
-CHD,90.87,0.2,5.11,239.48,10,0,0,Neutral,65,Institutional Support
-CHRW,101.62,0.8,6.52,117.65,10,0,0,Neutral,65,Institutional Support
-CHTR,86.6,37.36,26.11,84.47,10,0,0,Neutral,55,Institutional Support
+CF,105.59,0.74,10.88,154.24,10,0,0,Neutral,55,Institutional Support
+CFG,98.41,0.74,4.56,425.13,10,0,0,Neutral,65,Institutional Support
+CHD,90.96,0.2,5.11,239.48,10,0,0,Neutral,65,Institutional Support
+CHRW,101.65,0.8,6.52,117.65,10,0,0,Neutral,65,Institutional Support
+CHTR,86.58,37.36,26.11,84.47,10,0,0,Neutral,55,Institutional Support
 CI,91.15,1.59,2.33,265.86,10,0,0,Neutral,70,Strong Institutional Support
 CINF,70.67,1.6,1.78,153.26,10,0,0,Neutral,65,Institutional Support
 CL,86.66,0.16,2.0,755.61,10,0,0,Neutral,70,Strong Institutional Support
-CLX,88.84,0.6,6.95,121.57,10,0,0,Neutral,65,Institutional Support
-CMCSA,88.61,0.73,1.69,3606.91,10,0,0,Neutral,70,Strong Institutional Support
-CME,91.5,0.43,1.39,359.03,10,0,0,Neutral,70,Strong Institutional Support
-CMG,91.4,0.59,2.62,1313.05,10,0,0,Neutral,70,Strong Institutional Support
+CLX,88.73,0.6,6.95,121.57,10,0,0,Neutral,65,Institutional Support
+CMCSA,88.57,0.73,1.69,3606.91,10,0,0,Neutral,70,Strong Institutional Support
+CME,91.51,0.43,1.39,359.03,10,0,0,Neutral,70,Strong Institutional Support
+CMG,91.34,0.59,2.62,1313.05,10,0,0,Neutral,70,Strong Institutional Support
 CMI,87.46,0.32,1.35,137.43,10,0,0,Neutral,70,Strong Institutional Support
-CMS,99.2,0.51,4.53,302.35,10,0,0,Neutral,65,Institutional Support
-CNC,96.9,0.45,3.01,489.1,10,0,0,Neutral,65,Institutional Support
-CNP,101.28,0.44,7.05,649.38,10,0,0,Neutral,65,Institutional Support
-COF,88.93,1.84,1.37,612.43,10,0,0,Neutral,70,Strong Institutional Support
-COO,107.46,0.62,4.18,194.52,10,0,0,Neutral,65,Institutional Support
-COP,83.89,0.07,1.34,1233.11,10,0,0,Neutral,70,Strong Institutional Support
-COR,96.53,4.21,4.47,185.67,10,0,0,Neutral,65,Institutional Support
+CMS,99.19,0.51,4.53,302.35,10,0,0,Neutral,65,Institutional Support
+CNC,97.07,0.45,3.01,489.1,10,0,0,Neutral,65,Institutional Support
+CNP,101.23,0.44,7.05,649.38,10,0,0,Neutral,65,Institutional Support
+COF,88.94,1.84,1.37,612.43,10,0,0,Neutral,70,Strong Institutional Support
+COO,107.48,0.62,4.18,194.52,10,0,0,Neutral,65,Institutional Support
+COP,83.88,0.07,1.34,1233.11,10,0,0,Neutral,70,Strong Institutional Support
+COR,96.44,4.21,4.47,185.67,10,0,0,Neutral,65,Institutional Support
 COST,72.39,0.16,1.68,442.63,10,0,0,Neutral,65,Institutional Support
-CPAY,96.11,3.56,3.33,67.39,10,0,0,Neutral,65,Institutional Support
-CPB,66.41,33.61,19.49,192.19,10,0,0,Neutral,50,Neutral
-CPRT,86.31,8.61,3.76,887.71,10,0,0,Neutral,65,Institutional Support
-CPT,98.48,1.34,4.07,104.52,10,0,0,Neutral,65,Institutional Support
+CPAY,96.12,3.56,3.33,67.39,10,0,0,Neutral,65,Institutional Support
+CPB,66.69,33.61,19.49,192.19,10,0,0,Neutral,50,Neutral
+CPRT,86.29,8.61,3.76,887.71,10,0,0,Neutral,65,Institutional Support
+CPT,98.47,1.34,4.07,104.52,10,0,0,Neutral,65,Institutional Support
 CRL,108.12,1.0,6.01,48.7,10,0,0,Neutral,65,Institutional Support
 CRM,84.35,2.63,1.84,911.64,10,0,0,Neutral,70,Strong Institutional Support
-CSCO,81.26,0.06,1.54,3944.1,10,0,0,Neutral,70,Strong Institutional Support
-CSGP,104.02,1.18,4.55,418.25,10,0,0,Neutral,65,Institutional Support
-CSX,79.94,0.25,1.8,1859.71,10,0,0,Neutral,65,Institutional Support
-CTAS,67.8,14.98,2.11,341.87,10,0,0,Neutral,65,Institutional Support
+CSCO,81.25,0.06,1.54,3944.1,10,0,0,Neutral,70,Strong Institutional Support
+CSGP,104.01,1.18,4.55,418.25,10,0,0,Neutral,65,Institutional Support
+CSX,79.93,0.25,1.8,1859.71,10,0,0,Neutral,65,Institutional Support
+CTAS,67.78,14.98,2.11,341.87,10,0,0,Neutral,65,Institutional Support
 CTLT,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-CTRA,94.94,1.47,5.03,751.21,10,0,0,Neutral,65,Institutional Support
-CTSH,105.28,0.1,6.89,481.65,10,0,0,Neutral,65,Institutional Support
-CTVA,87.3,0.12,2.11,674.17,10,0,0,Neutral,70,Strong Institutional Support
-CVS,89.94,1.06,1.73,1266.88,10,0,0,Neutral,70,Strong Institutional Support
+CTRA,95.0,1.47,5.03,751.21,10,0,0,Neutral,65,Institutional Support
+CTSH,105.21,0.1,6.89,481.65,10,0,0,Neutral,65,Institutional Support
+CTVA,87.32,0.12,2.11,674.17,10,0,0,Neutral,70,Strong Institutional Support
+CVS,89.97,1.06,1.73,1266.88,10,0,0,Neutral,70,Strong Institutional Support
 CVX,67.98,6.13,0.9,1880.31,10,0,0,Neutral,65,Institutional Support
-CZR,106.7,2.16,17.91,193.42,10,0,0,Neutral,55,Institutional Support
-D,84.48,0.12,4.21,852.15,10,0,0,Neutral,65,Institutional Support
-DAL,82.98,0.32,3.87,645.79,10,0,0,Neutral,65,Institutional Support
-DAY,77.34,1.19,16.17,156.93,10,0,0,Neutral,50,Neutral
-DD,76.71,0.29,2.43,417.3,10,0,0,Neutral,65,Institutional Support
-DE,82.84,0.16,2.33,269.91,10,0,0,Neutral,70,Strong Institutional Support
-DECK,99.4,0.58,3.87,144.47,10,0,0,Neutral,65,Institutional Support
+CZR,106.71,2.16,17.91,193.42,10,0,0,Neutral,55,Institutional Support
+D,84.52,0.12,4.21,852.15,10,0,0,Neutral,65,Institutional Support
+DAL,82.99,0.32,3.87,645.79,10,0,0,Neutral,65,Institutional Support
+DAY,77.35,1.19,16.17,156.93,10,0,0,Neutral,50,Neutral
+DD,76.72,0.29,2.43,417.3,10,0,0,Neutral,65,Institutional Support
+DE,82.83,0.16,2.33,269.91,10,0,0,Neutral,70,Strong Institutional Support
+DECK,99.48,0.58,3.87,144.47,10,0,0,Neutral,65,Institutional Support
 DFS,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-DG,98.17,0.34,5.16,218.79,10,0,0,Neutral,65,Institutional Support
+DG,98.19,0.34,5.16,218.79,10,0,0,Neutral,65,Institutional Support
 DGX,99.54,0.39,6.0,110.67,10,0,0,Neutral,65,Institutional Support
-DHI,90.35,11.32,6.83,257.21,10,0,0,Neutral,65,Institutional Support
-DHR,84.03,11.06,1.32,628.99,10,0,0,Neutral,70,Strong Institutional Support
-DIS,75.86,0.07,1.23,1782.59,10,0,0,Neutral,65,Institutional Support
-DLR,101.4,0.01,3.71,321.26,10,0,0,Neutral,65,Institutional Support
-DLTR,116.42,0.15,8.83,175.05,10,0,0,Neutral,65,Institutional Support
-DOC,97.37,0.29,4.63,692.13,10,0,0,Neutral,65,Institutional Support
-DOV,88.02,1.39,3.54,136.45,10,0,0,Neutral,65,Institutional Support
+DHI,90.36,11.32,6.83,257.21,10,0,0,Neutral,65,Institutional Support
+DHR,84.02,11.06,1.32,628.99,10,0,0,Neutral,70,Strong Institutional Support
+DIS,75.87,0.07,1.23,1782.59,10,0,0,Neutral,65,Institutional Support
+DLR,101.52,0.01,3.71,321.26,10,0,0,Neutral,65,Institutional Support
+DLTR,116.47,0.15,8.83,175.05,10,0,0,Neutral,65,Institutional Support
+DOC,97.36,0.29,4.63,692.13,10,0,0,Neutral,65,Institutional Support
+DOV,88.12,1.39,3.54,136.45,10,0,0,Neutral,65,Institutional Support
 DOW,68.25,0.17,5.29,708.94,10,0,0,Neutral,60,Institutional Support
-DPZ,92.06,9.25,7.12,32.83,10,0,0,Neutral,65,Institutional Support
-DRI,95.95,0.33,6.26,114.58,10,0,0,Neutral,65,Institutional Support
-DTE,81.02,0.36,2.35,206.63,10,0,0,Neutral,70,Strong Institutional Support
-DUK,70.27,0.13,1.7,775.79,10,0,0,Neutral,65,Institutional Support
-DVA,51.46,50.04,23.58,37.37,10,0,0,Neutral,40,Institutional Concern
+DPZ,92.07,9.25,7.12,32.83,10,0,0,Neutral,65,Institutional Support
+DRI,95.92,0.33,6.26,114.58,10,0,0,Neutral,65,Institutional Support
+DTE,81.05,0.36,2.35,206.63,10,0,0,Neutral,70,Strong Institutional Support
+DUK,70.25,0.13,1.7,775.79,10,0,0,Neutral,65,Institutional Support
+DVA,51.55,50.04,23.58,37.37,10,0,0,Neutral,40,Institutional Concern
 DVN,79.68,0.79,3.88,622.01,10,0,0,Neutral,60,Institutional Support
-DXCM,98.61,0.42,4.75,387.41,10,0,0,Neutral,65,Institutional Support
-EA,99.55,0.2,3.71,223.97,10,0,0,Neutral,65,Institutional Support
-EBAY,96.21,0.25,3.11,450.29,10,0,0,Neutral,65,Institutional Support
+DXCM,98.47,0.42,4.75,387.41,10,0,0,Neutral,65,Institutional Support
+EA,99.5,0.2,3.71,223.97,10,0,0,Neutral,65,Institutional Support
+EBAY,96.24,0.25,3.11,450.29,10,0,0,Neutral,65,Institutional Support
 ECL,92.61,0.14,1.16,285.43,10,0,0,Neutral,70,Strong Institutional Support
-ED,73.27,0.22,3.22,360.3,10,0,0,Neutral,60,Institutional Support
-EFX,102.27,0.51,3.06,121.85,10,0,0,Neutral,65,Institutional Support
-EG,99.06,1.42,2.31,31.6,10,0,0,Neutral,70,Strong Institutional Support
-EIX,90.63,0.23,3.05,383.82,10,0,0,Neutral,65,Institutional Support
-EL,91.97,1.54,4.48,244.85,10,0,0,Neutral,65,Institutional Support
-ELV,91.92,0.17,1.85,221.75,10,0,0,Neutral,70,Strong Institutional Support
-EMN,92.51,0.78,4.44,113.12,10,0,0,Neutral,65,Institutional Support
+ED,73.28,0.22,3.22,360.3,10,0,0,Neutral,60,Institutional Support
+EFX,102.34,0.51,3.06,121.85,10,0,0,Neutral,65,Institutional Support
+EG,99.05,1.42,2.31,31.6,10,0,0,Neutral,70,Strong Institutional Support
+EIX,90.66,0.23,3.05,383.82,10,0,0,Neutral,65,Institutional Support
+EL,92.0,1.54,4.48,244.85,10,0,0,Neutral,65,Institutional Support
+ELV,91.9,0.17,1.85,221.75,10,0,0,Neutral,70,Strong Institutional Support
+EMN,92.53,0.78,4.44,113.12,10,0,0,Neutral,65,Institutional Support
 EMR,83.86,0.24,2.73,559.68,10,0,0,Neutral,70,Strong Institutional Support
-ENPH,95.44,3.33,33.33,126.76,10,0,0,Neutral,55,Institutional Support
-EOG,95.47,0.29,2.69,540.78,10,0,0,Neutral,70,Strong Institutional Support
-EPAM,101.87,3.6,5.68,53.34,10,0,0,Neutral,65,Institutional Support
-EQIX,99.31,0.28,2.6,97.81,10,0,0,Neutral,70,Strong Institutional Support
+ENPH,95.45,3.38,33.33,126.76,10,0,0,Neutral,55,Institutional Support
+EOG,95.45,0.29,2.69,540.78,10,0,0,Neutral,70,Strong Institutional Support
+EPAM,101.89,3.6,5.68,53.34,10,0,0,Neutral,65,Institutional Support
+EQIX,99.3,0.28,2.6,97.81,10,0,0,Neutral,70,Strong Institutional Support
 EQR,96.5,0.54,2.63,342.66,10,0,0,Neutral,70,Strong Institutional Support
-EQT,95.04,0.7,3.68,618.81,10,0,0,Neutral,65,Institutional Support
-ES,86.81,0.18,2.06,374.42,10,0,0,Neutral,70,Strong Institutional Support
-ESS,103.17,1.17,4.54,63.76,10,0,0,Neutral,65,Institutional Support
+EQT,95.0,0.7,3.68,618.81,10,0,0,Neutral,65,Institutional Support
+ES,86.84,0.18,2.06,374.42,10,0,0,Neutral,70,Strong Institutional Support
+ESS,103.21,1.17,4.54,63.76,10,0,0,Neutral,65,Institutional Support
 ETN,85.59,0.18,1.98,387.27,10,0,0,Neutral,70,Strong Institutional Support
-ETR,97.17,0.27,3.24,444.31,10,0,0,Neutral,65,Institutional Support
-ETSY,126.82,1.2,24.91,81.28,10,0,0,Neutral,55,Institutional Support
-EVRG,94.94,0.18,6.22,229.03,10,0,0,Neutral,65,Institutional Support
-EW,90.15,0.92,1.4,574.42,10,0,0,Neutral,70,Strong Institutional Support
-EXC,90.93,0.11,5.47,1008.59,10,0,0,Neutral,65,Institutional Support
-EXPD,103.8,0.68,4.74,132.95,10,0,0,Neutral,65,Institutional Support
-EXPE,103.35,1.16,6.91,115.46,10,0,0,Neutral,65,Institutional Support
-EXR,99.12,0.98,3.3,209.96,10,0,0,Neutral,65,Institutional Support
-F,65.27,0.26,5.32,3876.84,10,0,0,Neutral,60,Institutional Support
-FANG,63.4,35.57,4.83,184.68,10,0,0,Neutral,60,Institutional Support
-FAST,88.61,0.19,3.13,1144.48,10,0,0,Neutral,65,Institutional Support
-FCX,86.0,0.67,2.14,1392.08,10,0,0,Neutral,70,Strong Institutional Support
-FDS,100.08,0.41,5.19,36.97,10,0,0,Neutral,65,Institutional Support
-FDX,80.61,7.58,1.77,217.12,10,0,0,Neutral,70,Strong Institutional Support
+ETR,97.23,0.27,3.24,444.31,10,0,0,Neutral,65,Institutional Support
+ETSY,126.85,1.2,24.91,81.28,10,0,0,Neutral,55,Institutional Support
+EVRG,94.89,0.18,6.22,229.03,10,0,0,Neutral,65,Institutional Support
+EW,90.13,0.92,1.4,574.42,10,0,0,Neutral,70,Strong Institutional Support
+EXC,90.88,0.11,5.47,1008.59,10,0,0,Neutral,65,Institutional Support
+EXPD,103.81,0.68,4.74,132.95,10,0,0,Neutral,65,Institutional Support
+EXPE,103.41,1.16,6.91,115.46,10,0,0,Neutral,65,Institutional Support
+EXR,99.11,0.98,3.3,209.96,10,0,0,Neutral,65,Institutional Support
+F,65.32,0.26,5.32,3876.84,10,0,0,Neutral,60,Institutional Support
+FANG,63.41,35.57,4.83,184.68,10,0,0,Neutral,60,Institutional Support
+FAST,88.6,0.19,3.13,1144.48,10,0,0,Neutral,65,Institutional Support
+FCX,86.03,0.67,2.14,1392.08,10,0,0,Neutral,70,Strong Institutional Support
+FDS,100.2,0.41,5.19,36.97,10,0,0,Neutral,65,Institutional Support
+FDX,80.62,7.58,1.77,217.12,10,0,0,Neutral,70,Strong Institutional Support
 FE,95.14,0.16,6.43,547.08,10,0,0,Neutral,65,Institutional Support
-FFIV,99.42,0.64,7.38,57.48,10,0,0,Neutral,65,Institutional Support
+FFIV,99.36,0.64,7.38,57.48,10,0,0,Neutral,65,Institutional Support
 FI,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-FICO,91.14,2.62,5.73,23.0,10,0,0,Neutral,65,Institutional Support
-FIS,99.71,0.13,3.33,516.63,10,0,0,Neutral,65,Institutional Support
-FITB,89.27,0.44,9.78,657.13,10,0,0,Neutral,65,Institutional Support
+FICO,91.11,2.62,5.73,23.0,10,0,0,Neutral,65,Institutional Support
+FIS,99.69,0.13,3.33,516.63,10,0,0,Neutral,65,Institutional Support
+FITB,89.21,0.44,9.78,657.13,10,0,0,Neutral,65,Institutional Support
 FLT,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-FMC,92.55,0.94,14.32,123.91,10,0,0,Neutral,55,Institutional Support
-FOX,63.32,37.07,10.3,353.52,10,0,0,Neutral,50,Neutral
-FOXA,118.98,1.26,13.68,353.52,10,0,0,Neutral,55,Institutional Support
-FRT,98.49,1.05,2.96,77.93,10,0,0,Neutral,70,Strong Institutional Support
-FSLR,105.45,5.46,11.77,101.44,10,0,0,Neutral,55,Institutional Support
-FTNT,71.47,17.34,3.41,625.94,10,0,0,Neutral,60,Institutional Support
-FTV,103.03,0.35,4.45,295.51,10,0,0,Neutral,65,Institutional Support
+FMC,92.49,0.94,14.32,123.91,10,0,0,Neutral,55,Institutional Support
+FOX,63.36,37.07,10.3,353.52,10,0,0,Neutral,50,Neutral
+FOXA,118.46,1.26,13.68,353.52,10,0,0,Neutral,55,Institutional Support
+FRT,98.52,1.05,2.96,77.93,10,0,0,Neutral,70,Strong Institutional Support
+FSLR,105.43,5.46,11.77,101.44,10,0,0,Neutral,55,Institutional Support
+FTNT,71.44,17.34,3.41,625.94,10,0,0,Neutral,60,Institutional Support
+FTV,102.99,0.35,4.45,295.51,10,0,0,Neutral,65,Institutional Support
 GD,87.91,0.51,1.28,252.92,10,0,0,Neutral,70,Strong Institutional Support
-GDDY,102.39,0.67,5.47,134.24,10,0,0,Neutral,65,Institutional Support
-GE,80.83,0.19,1.35,1045.12,10,0,0,Neutral,70,Strong Institutional Support
-GEHC,89.52,0.27,3.25,454.08,10,0,0,Neutral,65,Institutional Support
-GEN,88.24,9.31,4.15,472.37,10,0,0,Neutral,65,Institutional Support
-GEV,79.13,0.07,2.6,270.88,10,0,0,Neutral,65,Institutional Support
-GILD,92.02,0.1,1.87,1238.04,10,0,0,Neutral,70,Strong Institutional Support
-GIS,86.56,0.3,8.27,531.28,10,0,0,Neutral,65,Institutional Support
-GL,85.99,0.64,2.05,78.93,10,0,0,Neutral,70,Strong Institutional Support
-GLW,75.71,8.22,1.72,786.65,10,0,0,Neutral,65,Institutional Support
-GM,86.36,0.18,2.87,930.03,10,0,0,Neutral,70,Strong Institutional Support
-GNRC,95.24,1.68,8.5,57.52,10,0,0,Neutral,65,Institutional Support
+GDDY,102.4,0.67,5.47,134.24,10,0,0,Neutral,65,Institutional Support
+GE,80.84,0.19,1.35,1045.12,10,0,0,Neutral,70,Strong Institutional Support
+GEHC,89.54,0.27,3.25,454.08,10,0,0,Neutral,65,Institutional Support
+GEN,88.25,9.31,4.15,472.37,10,0,0,Neutral,65,Institutional Support
+GEV,79.2,0.07,2.6,270.88,10,0,0,Neutral,65,Institutional Support
+GILD,92.05,0.1,1.87,1238.04,10,0,0,Neutral,70,Strong Institutional Support
+GIS,86.52,0.3,8.27,531.28,10,0,0,Neutral,65,Institutional Support
+GL,85.98,0.64,2.05,78.93,10,0,0,Neutral,70,Strong Institutional Support
+GLW,75.85,8.21,1.72,786.65,10,0,0,Neutral,65,Institutional Support
+GM,86.35,0.18,2.87,930.03,10,0,0,Neutral,70,Strong Institutional Support
+GNRC,94.93,1.68,8.5,57.52,10,0,0,Neutral,65,Institutional Support
 GOOG,60.64,6.68,0.0,10798.4,10,0,0,Neutral,65,Institutional Support
-GOOGL,81.22,0.57,1.42,10798.4,10,0,0,Neutral,70,Strong Institutional Support
-GPC,88.74,0.4,4.01,138.51,10,0,0,Neutral,65,Institutional Support
+GOOGL,81.21,0.57,1.42,10798.4,10,0,0,Neutral,70,Strong Institutional Support
+GPC,88.76,0.4,4.01,138.51,10,0,0,Neutral,65,Institutional Support
 GPN,96.31,0.82,4.0,198.43,10,0,0,Neutral,65,Institutional Support
-GRMN,57.44,14.89,2.1,163.47,10,0,0,Neutral,55,Institutional Support
+GRMN,57.58,14.89,2.1,163.47,10,0,0,Neutral,55,Institutional Support
 GS,74.74,0.55,2.34,305.6,10,0,0,Neutral,65,Institutional Support
 GWW,74.01,6.2,3.51,43.56,10,0,0,Neutral,60,Institutional Support
-HAL,90.49,0.46,4.16,834.06,10,0,0,Neutral,65,Institutional Support
-HAS,92.91,0.69,3.52,139.61,10,0,0,Neutral,65,Institutional Support
-HBAN,86.62,0.85,6.52,1557.45,10,0,0,Neutral,65,Institutional Support
-HCA,61.79,31.3,2.62,156.43,10,0,0,Neutral,65,Institutional Support
-HD,74.05,0.07,1.14,993.91,10,0,0,Neutral,65,Institutional Support
+HAL,90.5,0.46,4.16,834.06,10,0,0,Neutral,65,Institutional Support
+HAS,92.94,0.69,3.52,139.61,10,0,0,Neutral,65,Institutional Support
+HBAN,86.67,0.85,6.52,1557.45,10,0,0,Neutral,65,Institutional Support
+HCA,61.77,31.3,2.62,156.43,10,0,0,Neutral,65,Institutional Support
+HD,74.04,0.07,1.14,993.91,10,0,0,Neutral,65,Institutional Support
 HES,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-HIG,94.79,0.32,2.33,277.28,10,0,0,Neutral,70,Strong Institutional Support
-HII,96.93,0.66,3.77,38.99,10,0,0,Neutral,65,Institutional Support
-HLT,100.79,2.08,3.37,228.22,10,0,0,Neutral,65,Institutional Support
-HOLX,97.46,0.83,1.92,220.67,10,0,0,Neutral,70,Strong Institutional Support
-HON,81.67,0.11,1.59,603.03,10,0,0,Neutral,70,Strong Institutional Support
-HPE,90.02,0.44,7.32,1327.89,10,0,0,Neutral,65,Institutional Support
-HPQ,85.19,0.23,10.15,914.89,10,0,0,Neutral,55,Institutional Support
-HRL,91.41,0.45,6.9,290.61,10,0,0,Neutral,65,Institutional Support
+HIG,94.82,0.32,2.33,277.28,10,0,0,Neutral,70,Strong Institutional Support
+HII,96.88,0.66,3.77,38.99,10,0,0,Neutral,65,Institutional Support
+HLT,100.8,2.08,3.37,228.22,10,0,0,Neutral,65,Institutional Support
+HOLX,97.53,0.83,1.92,220.67,10,0,0,Neutral,70,Strong Institutional Support
+HON,81.66,0.11,1.59,603.03,10,0,0,Neutral,70,Strong Institutional Support
+HPE,90.03,0.44,7.32,1327.89,10,0,0,Neutral,65,Institutional Support
+HPQ,85.11,0.23,10.15,914.89,10,0,0,Neutral,55,Institutional Support
+HRL,91.43,0.45,6.9,290.61,10,0,0,Neutral,65,Institutional Support
 HSIC,111.07,0.89,5.03,98.18,10,0,0,Neutral,65,Institutional Support
-HST,108.97,1.38,7.09,641.44,10,0,0,Neutral,65,Institutional Support
-HSY,89.14,0.35,8.29,145.29,10,0,0,Neutral,65,Institutional Support
+HST,109.02,1.38,7.09,641.44,10,0,0,Neutral,65,Institutional Support
+HSY,89.12,0.35,8.29,145.29,10,0,0,Neutral,65,Institutional Support
 HUBB,96.9,0.39,5.93,52.88,10,0,0,Neutral,65,Institutional Support
-HUM,98.39,0.21,4.94,120.03,10,0,0,Neutral,65,Institutional Support
-HWM,94.65,1.14,3.53,397.95,10,0,0,Neutral,65,Institutional Support
-IBM,64.2,0.12,2.33,932.6,10,0,0,Neutral,65,Institutional Support
-ICE,94.87,0.92,1.51,566.11,10,0,0,Neutral,70,Strong Institutional Support
-IDXX,95.66,0.68,3.26,78.99,10,0,0,Neutral,65,Institutional Support
-IEX,105.8,0.24,3.99,74.63,10,0,0,Neutral,65,Institutional Support
-IFF,97.57,1.97,4.81,255.53,10,0,0,Neutral,65,Institutional Support
-ILMN,105.77,0.19,6.96,148.55,10,0,0,Neutral,65,Institutional Support
-INCY,105.92,1.89,7.57,164.31,10,0,0,Neutral,65,Institutional Support
-INTC,60.82,1.81,2.43,4986.71,10,0,0,Neutral,65,Institutional Support
-INTU,90.94,2.33,2.13,272.17,10,0,0,Neutral,70,Strong Institutional Support
-INVH,103.73,0.31,3.45,559.25,10,0,0,Neutral,65,Institutional Support
-IP,106.06,0.33,12.81,525.82,10,0,0,Neutral,55,Institutional Support
+HUM,98.41,0.21,4.94,120.03,10,0,0,Neutral,65,Institutional Support
+HWM,94.63,1.14,3.53,397.95,10,0,0,Neutral,65,Institutional Support
+IBM,64.23,0.12,2.33,932.6,10,0,0,Neutral,65,Institutional Support
+ICE,94.86,0.92,1.51,566.11,10,0,0,Neutral,70,Strong Institutional Support
+IDXX,95.83,0.68,3.26,78.99,10,0,0,Neutral,65,Institutional Support
+IEX,105.61,0.24,3.99,74.63,10,0,0,Neutral,65,Institutional Support
+IFF,97.58,1.97,4.81,255.53,10,0,0,Neutral,65,Institutional Support
+ILMN,105.8,0.19,6.96,148.55,10,0,0,Neutral,65,Institutional Support
+INCY,105.88,1.89,7.57,164.31,10,0,0,Neutral,65,Institutional Support
+INTC,60.8,1.81,2.43,4986.71,10,0,0,Neutral,65,Institutional Support
+INTU,90.97,2.33,2.13,272.17,10,0,0,Neutral,70,Strong Institutional Support
+INVH,103.63,0.31,3.45,559.25,10,0,0,Neutral,65,Institutional Support
+IP,106.11,0.33,12.81,525.82,10,0,0,Neutral,55,Institutional Support
 IPG,103.89,0.02,8.25,361.28,10,0,0,Neutral,65,Institutional Support
-IQV,100.28,0.99,2.55,161.7,10,0,0,Neutral,70,Strong Institutional Support
+IQV,100.46,0.99,2.55,161.7,10,0,0,Neutral,70,Strong Institutional Support
 IR,105.7,0.26,6.13,393.9,10,0,0,Neutral,65,Institutional Support
-IRM,87.89,0.78,4.44,292.99,10,0,0,Neutral,65,Institutional Support
-ISRG,89.19,0.54,2.11,352.76,10,0,0,Neutral,70,Strong Institutional Support
-IT,108.09,3.28,7.34,69.62,10,0,0,Neutral,65,Institutional Support
+IRM,87.83,0.78,4.44,292.99,10,0,0,Neutral,65,Institutional Support
+ISRG,89.16,0.54,2.11,352.76,10,0,0,Neutral,70,Strong Institutional Support
+IT,108.19,3.28,7.34,69.62,10,0,0,Neutral,65,Institutional Support
 ITW,84.95,0.34,2.87,263.12,10,0,0,Neutral,70,Strong Institutional Support
-IVZ,95.7,0.65,5.08,333.9,10,0,0,Neutral,65,Institutional Support
-J,91.18,0.6,3.48,117.21,10,0,0,Neutral,65,Institutional Support
-JBHT,77.63,20.45,3.8,75.08,10,0,0,Neutral,60,Institutional Support
-JBL,99.94,1.32,4.14,103.73,10,0,0,Neutral,65,Institutional Support
+IVZ,95.71,0.65,5.08,333.9,10,0,0,Neutral,65,Institutional Support
+J,91.23,0.6,3.48,117.21,10,0,0,Neutral,65,Institutional Support
+JBHT,77.51,20.45,3.8,75.08,10,0,0,Neutral,60,Institutional Support
+JBL,99.75,1.32,4.14,103.73,10,0,0,Neutral,65,Institutional Support
 JCI,97.02,0.19,3.83,609.24,10,0,0,Neutral,65,Institutional Support
-JKHY,101.19,0.59,5.21,71.88,10,0,0,Neutral,65,Institutional Support
-JNJ,75.04,0.05,0.85,2405.49,10,0,0,Neutral,65,Institutional Support
+JKHY,101.26,0.59,5.21,71.88,10,0,0,Neutral,65,Institutional Support
+JNJ,75.06,0.05,0.85,2405.49,10,0,0,Neutral,65,Institutional Support
 JNPR,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-JPM,74.31,0.38,0.86,2681.88,10,0,0,Neutral,65,Institutional Support
+JPM,74.32,0.38,0.86,2681.88,10,0,0,Neutral,65,Institutional Support
 K,87.64,0.51,3.54,343.08,10,0,0,Neutral,65,Institutional Support
-KDP,94.08,4.96,3.4,1218.26,10,0,0,Neutral,65,Institutional Support
-KEY,91.24,0.28,2.58,1098.17,10,0,0,Neutral,70,Strong Institutional Support
+KDP,94.1,4.96,3.4,1218.26,10,0,0,Neutral,65,Institutional Support
+KEY,91.23,0.28,2.58,1098.17,10,0,0,Neutral,70,Strong Institutional Support
 KEYS,93.21,0.58,1.8,170.68,10,0,0,Neutral,70,Strong Institutional Support
-KHC,60.78,27.85,7.22,852.39,10,0,0,Neutral,60,Institutional Support
-KIM,98.67,2.15,4.7,661.15,10,0,0,Neutral,65,Institutional Support
-KKR,62.41,23.59,1.53,684.48,10,0,0,Neutral,65,Institutional Support
+KHC,60.83,27.85,7.22,852.39,10,0,0,Neutral,60,Institutional Support
+KIM,98.63,2.15,4.7,661.15,10,0,0,Neutral,65,Institutional Support
+KKR,62.42,23.59,1.53,684.48,10,0,0,Neutral,65,Institutional Support
 KLAC,94.59,0.1,2.85,131.07,10,0,0,Neutral,70,Strong Institutional Support
-KMB,84.85,0.66,9.03,330.71,10,0,0,Neutral,65,Institutional Support
+KMB,84.89,0.66,9.03,330.71,10,0,0,Neutral,65,Institutional Support
 KMI,69.01,12.78,2.08,1938.64,10,0,0,Neutral,65,Institutional Support
-KMX,106.94,0.44,12.69,140.96,10,0,0,Neutral,55,Institutional Support
-KO,66.11,9.89,0.84,3872.78,10,0,0,Neutral,65,Institutional Support
+KMX,106.92,0.44,12.69,140.96,10,0,0,Neutral,55,Institutional Support
+KO,66.12,9.89,0.84,3872.78,10,0,0,Neutral,65,Institutional Support
 KR,81.52,8.78,5.73,739.98,10,0,0,Neutral,65,Institutional Support
-KVUE,97.9,0.04,4.33,1913.45,10,0,0,Neutral,65,Institutional Support
-L,60.58,18.93,1.82,169.51,10,0,0,Neutral,65,Institutional Support
-LDOS,80.7,0.55,2.04,126.91,10,0,0,Neutral,70,Strong Institutional Support
-LEN,96.36,5.1,6.62,217.83,10,0,0,Neutral,65,Institutional Support
-LH,98.55,0.33,4.89,82.52,10,0,0,Neutral,65,Institutional Support
-LHX,89.56,0.34,1.75,186.24,10,0,0,Neutral,70,Strong Institutional Support
+KVUE,97.89,0.04,4.33,1913.45,10,0,0,Neutral,65,Institutional Support
+L,60.6,18.93,1.82,169.51,10,0,0,Neutral,65,Institutional Support
+LDOS,80.8,0.55,2.04,126.91,10,0,0,Neutral,70,Strong Institutional Support
+LEN,96.48,5.19,6.62,217.83,10,0,0,Neutral,65,Institutional Support
+LH,98.56,0.33,4.89,82.52,10,0,0,Neutral,65,Institutional Support
+LHX,89.58,0.34,1.75,186.24,10,0,0,Neutral,70,Strong Institutional Support
 LIN,87.99,0.24,1.66,465.27,10,0,0,Neutral,70,Strong Institutional Support
-LKQ,105.15,0.46,7.34,254.25,10,0,0,Neutral,65,Institutional Support
-LLY,83.21,0.16,0.87,893.12,10,0,0,Neutral,70,Strong Institutional Support
-LMT,74.89,0.08,1.54,196.84,10,0,0,Neutral,65,Institutional Support
-LNT,88.2,0.23,8.71,256.34,10,0,0,Neutral,65,Institutional Support
-LOW,80.13,0.11,1.89,559.8,10,0,0,Neutral,70,Strong Institutional Support
-LRCX,88.44,0.28,2.95,1251.16,10,0,0,Neutral,70,Strong Institutional Support
-LULU,79.28,4.61,7.05,107.78,10,0,0,Neutral,60,Institutional Support
-LUV,102.23,1.18,5.57,459.81,10,0,0,Neutral,65,Institutional Support
-LVS,42.81,56.96,3.79,321.27,10,0,0,Neutral,50,Neutral
-LW,93.91,2.51,4.81,137.94,10,0,0,Neutral,65,Institutional Support
-LYB,71.43,20.48,6.54,255.84,10,0,0,Neutral,60,Institutional Support
+LKQ,105.2,0.46,7.34,254.25,10,0,0,Neutral,65,Institutional Support
+LLY,83.22,0.16,0.87,893.12,10,0,0,Neutral,70,Strong Institutional Support
+LMT,74.91,0.08,1.54,196.84,10,0,0,Neutral,65,Institutional Support
+LNT,88.21,0.23,8.71,256.34,10,0,0,Neutral,65,Institutional Support
+LOW,80.12,0.11,1.89,559.8,10,0,0,Neutral,70,Strong Institutional Support
+LRCX,88.43,0.28,2.95,1251.16,10,0,0,Neutral,70,Strong Institutional Support
+LULU,79.31,4.61,7.05,107.78,10,0,0,Neutral,60,Institutional Support
+LUV,102.24,1.18,5.57,459.81,10,0,0,Neutral,65,Institutional Support
+LVS,42.84,56.96,3.79,321.27,10,0,0,Neutral,50,Neutral
+LW,93.95,2.51,4.81,137.94,10,0,0,Neutral,65,Institutional Support
+LYB,71.47,20.48,6.54,255.84,10,0,0,Neutral,60,Institutional Support
 LYV,83.79,32.64,12.01,156.27,10,0,0,Neutral,55,Institutional Support
-MA,90.84,0.51,0.74,890.11,10,0,0,Neutral,70,Strong Institutional Support
-MAA,98.82,0.67,3.79,116.05,10,0,0,Neutral,65,Institutional Support
-MAR,65.8,17.91,3.67,234.07,10,0,0,Neutral,60,Institutional Support
-MAS,99.97,0.22,4.94,206.87,10,0,0,Neutral,65,Institutional Support
+MA,90.85,0.51,0.74,890.11,10,0,0,Neutral,70,Strong Institutional Support
+MAA,98.91,0.67,3.79,116.05,10,0,0,Neutral,65,Institutional Support
+MAR,65.79,17.91,3.67,234.07,10,0,0,Neutral,60,Institutional Support
+MAS,100.1,0.22,4.94,206.87,10,0,0,Neutral,65,Institutional Support
 MCD,75.11,0.22,1.17,711.06,10,0,0,Neutral,65,Institutional Support
 MCHP,98.84,2.11,5.68,528.79,10,0,0,Neutral,65,Institutional Support
-MCK,90.72,0.03,1.61,123.26,10,0,0,Neutral,70,Strong Institutional Support
-MCO,79.22,13.95,1.39,164.75,10,0,0,Neutral,65,Institutional Support
-MDLZ,88.11,0.2,3.49,1286.76,10,0,0,Neutral,65,Institutional Support
-MDT,88.73,0.29,1.13,1279.68,10,0,0,Neutral,70,Strong Institutional Support
+MCK,90.81,0.03,1.61,123.26,10,0,0,Neutral,70,Strong Institutional Support
+MCO,79.27,13.95,1.39,164.75,10,0,0,Neutral,65,Institutional Support
+MDLZ,88.07,0.2,3.49,1286.76,10,0,0,Neutral,65,Institutional Support
+MDT,88.74,0.29,1.13,1279.68,10,0,0,Neutral,70,Strong Institutional Support
 MET,78.16,16.43,1.56,550.32,10,0,0,Neutral,65,Institutional Support
-META,79.41,0.06,1.52,2173.32,10,0,0,Neutral,65,Institutional Support
-MGM,70.02,25.27,14.09,204.24,10,0,0,Neutral,50,Neutral
-MHK,87.44,17.62,5.4,51.14,10,0,0,Neutral,65,Institutional Support
-MKC,92.81,0.01,0.0,264.84,10,0,0,Neutral,70,Strong Institutional Support
-MKTX,100.03,2.34,7.03,36.42,10,0,0,Neutral,65,Institutional Support
-MLM,99.73,0.74,3.77,59.82,10,0,0,Neutral,65,Institutional Support
+META,79.42,0.06,1.52,2173.32,10,0,0,Neutral,65,Institutional Support
+MGM,69.98,25.27,14.09,204.24,10,0,0,Neutral,50,Neutral
+MHK,87.43,17.62,5.4,51.14,10,0,0,Neutral,65,Institutional Support
+MKC,92.78,0.01,0.0,264.84,10,0,0,Neutral,70,Strong Institutional Support
+MKTX,100.2,2.34,7.03,36.42,10,0,0,Neutral,65,Institutional Support
+MLM,99.63,0.74,3.77,59.82,10,0,0,Neutral,65,Institutional Support
 MMC,92.08,0.07,1.01,489.04,10,0,0,Neutral,70,Strong Institutional Support
-MMM,74.49,0.1,1.5,529.48,10,0,0,Neutral,65,Institutional Support
-MNST,70.56,28.59,2.88,696.87,10,0,0,Neutral,65,Institutional Support
-MO,62.84,0.09,2.87,1675.45,10,0,0,Neutral,65,Institutional Support
-MOH,112.72,1.37,9.36,47.93,10,0,0,Neutral,65,Institutional Support
-MOS,97.93,0.47,6.0,315.72,10,0,0,Neutral,65,Institutional Support
+MMM,74.5,0.1,1.5,529.48,10,0,0,Neutral,65,Institutional Support
+MNST,70.58,28.59,2.88,696.87,10,0,0,Neutral,65,Institutional Support
+MO,62.86,0.09,2.87,1675.45,10,0,0,Neutral,65,Institutional Support
+MOH,112.48,1.37,9.36,47.93,10,0,0,Neutral,65,Institutional Support
+MOS,97.89,0.47,6.0,315.72,10,0,0,Neutral,65,Institutional Support
 MPC,75.71,0.27,3.45,299.76,10,0,0,Neutral,60,Institutional Support
-MPWR,104.26,3.74,7.0,46.05,10,0,0,Neutral,65,Institutional Support
+MPWR,104.27,3.74,7.0,46.05,10,0,0,Neutral,65,Institutional Support
 MRK,79.94,0.06,1.46,2478.0,10,0,0,Neutral,65,Institutional Support
 MRNA,71.27,7.41,21.26,364.15,10,0,0,Neutral,50,Neutral
 MRO,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-MS,62.89,24.22,1.3,1201.54,10,0,0,Neutral,65,Institutional Support
-MSCI,95.55,3.48,2.77,71.14,10,0,0,Neutral,70,Strong Institutional Support
-MSFT,75.76,0.07,0.71,7421.45,10,0,0,Neutral,65,Institutional Support
-MSI,88.37,0.43,1.74,165.82,10,0,0,Neutral,70,Strong Institutional Support
-MTB,91.97,0.37,4.63,151.14,10,0,0,Neutral,65,Institutional Support
-MTCH,109.64,0.65,6.7,234.34,10,0,0,Neutral,65,Institutional Support
-MTD,103.22,0.45,3.28,20.32,10,0,0,Neutral,65,Institutional Support
-MU,83.51,0.25,2.67,1121.09,10,0,0,Neutral,70,Strong Institutional Support
-NCLH,84.76,0.34,11.28,453.16,10,0,0,Neutral,55,Institutional Support
-NDAQ,86.56,10.77,2.09,508.91,10,0,0,Neutral,70,Strong Institutional Support
-NDSN,78.61,5.69,3.05,49.76,10,0,0,Neutral,60,Institutional Support
-NEE,83.36,0.11,1.72,2078.47,10,0,0,Neutral,70,Strong Institutional Support
-NEM,80.5,0.24,2.47,1088.8,10,0,0,Neutral,70,Strong Institutional Support
-NFLX,79.44,0.52,1.61,4192.65,10,0,0,Neutral,65,Institutional Support
-NI,100.18,0.26,2.6,475.67,10,0,0,Neutral,70,Strong Institutional Support
-NKE,83.25,1.42,4.38,1170.78,10,0,0,Neutral,65,Institutional Support
+MS,62.92,24.22,1.3,1201.54,10,0,0,Neutral,65,Institutional Support
+MSCI,95.59,3.48,2.77,71.14,10,0,0,Neutral,70,Strong Institutional Support
+MSFT,75.77,0.07,0.71,7421.45,10,0,0,Neutral,65,Institutional Support
+MSI,88.31,0.43,1.74,165.82,10,0,0,Neutral,70,Strong Institutional Support
+MTB,91.96,0.37,4.63,151.14,10,0,0,Neutral,65,Institutional Support
+MTCH,109.61,0.65,6.7,234.34,10,0,0,Neutral,65,Institutional Support
+MTD,103.23,0.45,3.28,20.32,10,0,0,Neutral,65,Institutional Support
+MU,83.57,0.24,2.67,1121.09,10,0,0,Neutral,70,Strong Institutional Support
+NCLH,84.79,0.34,11.28,453.16,10,0,0,Neutral,55,Institutional Support
+NDAQ,86.54,10.77,2.09,508.91,10,0,0,Neutral,70,Strong Institutional Support
+NDSN,78.64,5.69,3.05,49.76,10,0,0,Neutral,60,Institutional Support
+NEE,83.32,0.11,1.72,2078.47,10,0,0,Neutral,70,Strong Institutional Support
+NEM,80.51,0.24,2.47,1088.8,10,0,0,Neutral,70,Strong Institutional Support
+NFLX,85.96,0.56,1.61,4192.65,10,0,0,Neutral,70,Strong Institutional Support
+NI,100.18,0.27,2.6,475.67,10,0,0,Neutral,70,Strong Institutional Support
+NKE,83.26,1.42,4.38,1170.78,10,0,0,Neutral,65,Institutional Support
 NOC,83.93,0.22,1.07,142.34,10,0,0,Neutral,70,Strong Institutional Support
-NOW,90.28,0.16,1.62,1035.02,10,0,0,Neutral,70,Strong Institutional Support
-NRG,94.76,0.78,2.42,190.67,10,0,0,Neutral,70,Strong Institutional Support
+NOW,90.26,0.16,1.62,1035.02,10,0,0,Neutral,70,Strong Institutional Support
+NRG,94.79,0.78,2.42,190.67,10,0,0,Neutral,70,Strong Institutional Support
 NSC,77.93,0.07,3.81,224.01,10,0,0,Neutral,60,Institutional Support
-NTAP,100.0,0.5,10.81,196.94,10,0,0,Neutral,55,Institutional Support
+NTAP,100.01,0.5,10.81,196.94,10,0,0,Neutral,55,Institutional Support
 NTRS,88.43,0.76,1.06,183.41,10,0,0,Neutral,70,Strong Institutional Support
-NUE,77.16,3.17,2.93,220.81,10,0,0,Neutral,65,Institutional Support
-NVDA,69.46,4.33,1.1,23330.67,10,0,0,Neutral,65,Institutional Support
-NVR,90.66,5.21,3.5,2.79,10,0,0,Neutral,65,Institutional Support
-NWS,48.23,34.01,12.05,496.32,10,0,0,Neutral,40,Institutional Concern
-NWSA,107.87,0.07,2.73,496.32,10,0,0,Neutral,70,Strong Institutional Support
+NUE,77.22,3.17,2.93,221.24,10,0,0,Neutral,65,Institutional Support
+NVDA,69.47,4.33,1.1,23330.67,10,0,0,Neutral,65,Institutional Support
+NVR,90.7,5.21,3.5,2.79,10,0,0,Neutral,65,Institutional Support
+NWS,48.26,34.01,12.05,496.32,10,0,0,Neutral,40,Institutional Concern
+NWSA,107.81,0.07,2.73,496.32,10,0,0,Neutral,70,Strong Institutional Support
 NXPI,98.14,0.13,3.78,251.24,10,0,0,Neutral,65,Institutional Support
-O,80.27,0.1,5.54,917.93,10,0,0,Neutral,65,Institutional Support
-ODFL,80.13,10.23,8.24,192.08,10,0,0,Neutral,65,Institutional Support
-OKE,75.19,0.19,3.96,627.42,10,0,0,Neutral,60,Institutional Support
-OMC,75.59,0.78,6.91,191.52,10,0,0,Neutral,60,Institutional Support
-ON,110.13,0.37,14.56,400.46,10,0,0,Neutral,55,Institutional Support
-ORCL,44.86,40.59,1.58,1706.04,10,0,0,Neutral,55,Institutional Support
-ORLY,88.62,0.77,1.78,836.34,10,0,0,Neutral,70,Strong Institutional Support
+O,80.25,0.1,5.54,917.93,10,0,0,Neutral,65,Institutional Support
+ODFL,80.18,10.23,8.24,192.08,10,0,0,Neutral,65,Institutional Support
+OKE,75.17,0.19,3.96,627.42,10,0,0,Neutral,60,Institutional Support
+OMC,75.64,0.78,6.91,191.52,10,0,0,Neutral,60,Institutional Support
+ON,110.12,0.37,14.56,400.46,10,0,0,Neutral,55,Institutional Support
+ORCL,44.85,40.59,1.58,1706.04,10,0,0,Neutral,55,Institutional Support
+ORLY,88.61,0.77,1.78,836.34,10,0,0,Neutral,70,Strong Institutional Support
 OTIS,91.75,0.11,2.29,388.96,10,0,0,Neutral,70,Strong Institutional Support
-OXY,51.3,27.18,6.36,981.66,10,0,0,Neutral,50,Neutral
+OXY,51.31,27.18,6.36,981.66,10,0,0,Neutral,50,Neutral
 PANW,84.58,0.89,6.81,690.27,10,0,0,Neutral,65,Institutional Support
 PARA,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-PAYC,95.4,11.89,6.16,48.41,10,0,0,Neutral,65,Institutional Support
-PAYX,81.38,10.43,5.46,321.63,10,0,0,Neutral,65,Institutional Support
-PCAR,73.1,1.93,3.35,514.83,10,0,0,Neutral,60,Institutional Support
-PCG,98.14,0.18,2.0,2191.87,10,0,0,Neutral,70,Strong Institutional Support
+PAYC,95.51,11.89,6.16,48.41,10,0,0,Neutral,65,Institutional Support
+PAYX,81.39,10.37,5.46,321.63,10,0,0,Neutral,65,Institutional Support
+PCAR,73.09,1.93,3.35,514.83,10,0,0,Neutral,60,Institutional Support
+PCG,98.22,0.18,2.0,2191.87,10,0,0,Neutral,70,Strong Institutional Support
 PEG,77.36,0.1,2.11,497.98,10,0,0,Neutral,65,Institutional Support
 PEP,79.52,0.18,1.58,1363.77,10,0,0,Neutral,65,Institutional Support
-PFE,67.7,0.07,2.29,5675.87,10,0,0,Neutral,65,Institutional Support
-PFG,75.62,1.08,2.59,218.32,10,0,0,Neutral,65,Institutional Support
-PG,70.2,0.07,0.8,2319.82,10,0,0,Neutral,65,Institutional Support
-PGR,88.21,0.25,1.14,584.19,10,0,0,Neutral,70,Strong Institutional Support
-PH,90.0,0.16,1.0,125.76,10,0,0,Neutral,70,Strong Institutional Support
-PHM,96.16,0.66,4.48,193.26,10,0,0,Neutral,65,Institutional Support
-PKG,97.29,1.45,3.81,87.82,10,0,0,Neutral,65,Institutional Support
-PLD,97.12,0.28,1.81,954.33,10,0,0,Neutral,70,Strong Institutional Support
-PM,83.15,0.15,1.16,1552.67,10,0,0,Neutral,70,Strong Institutional Support
+PFE,67.73,0.07,2.29,5675.87,10,0,0,Neutral,65,Institutional Support
+PFG,75.85,1.08,2.59,218.32,10,0,0,Neutral,65,Institutional Support
+PG,70.59,0.07,0.8,2319.82,10,0,0,Neutral,65,Institutional Support
+PGR,88.19,0.25,1.14,584.19,10,0,0,Neutral,70,Strong Institutional Support
+PH,89.99,0.16,1.0,125.76,10,0,0,Neutral,70,Strong Institutional Support
+PHM,96.09,0.66,4.48,193.26,10,0,0,Neutral,65,Institutional Support
+PKG,97.28,1.45,3.81,87.82,10,0,0,Neutral,65,Institutional Support
+PLD,97.16,0.28,1.81,954.33,10,0,0,Neutral,70,Strong Institutional Support
+PM,83.17,0.15,1.16,1552.67,10,0,0,Neutral,70,Strong Institutional Support
 PNC,88.09,0.36,1.8,387.43,10,0,0,Neutral,70,Strong Institutional Support
-PNR,99.06,0.77,2.62,162.33,10,0,0,Neutral,70,Strong Institutional Support
+PNR,99.03,0.77,2.62,162.33,10,0,0,Neutral,70,Strong Institutional Support
 PNW,99.43,0.25,6.91,118.94,10,0,0,Neutral,65,Institutional Support
-PODD,101.78,0.28,4.48,70.11,10,0,0,Neutral,65,Institutional Support
+PODD,101.91,0.28,4.48,70.11,10,0,0,Neutral,65,Institutional Support
 POOL,95.63,12.58,10.0,32.6,10,0,0,Neutral,65,Institutional Support
-PPG,88.54,0.14,2.88,223.91,10,0,0,Neutral,70,Strong Institutional Support
-PPL,89.72,0.1,5.57,737.96,10,0,0,Neutral,65,Institutional Support
-PRU,62.13,0.17,2.5,348.76,10,0,0,Neutral,65,Institutional Support
-PSA,82.1,10.19,2.97,157.4,10,0,0,Neutral,70,Strong Institutional Support
-PSX,78.04,0.26,2.2,402.09,10,0,0,Neutral,65,Institutional Support
+PPG,88.42,0.14,2.88,223.91,10,0,0,Neutral,70,Strong Institutional Support
+PPL,89.74,0.1,5.57,737.96,10,0,0,Neutral,65,Institutional Support
+PRU,62.15,0.17,2.5,348.76,10,0,0,Neutral,65,Institutional Support
+PSA,82.04,10.19,2.97,157.4,10,0,0,Neutral,70,Strong Institutional Support
+PSX,78.06,0.26,2.2,402.09,10,0,0,Neutral,65,Institutional Support
 PTC,102.69,0.31,4.89,119.01,10,0,0,Neutral,65,Institutional Support
-PWR,95.26,0.86,3.7,147.63,10,0,0,Neutral,65,Institutional Support
+PWR,95.33,0.86,3.7,147.63,10,0,0,Neutral,65,Institutional Support
 PYPL,80.91,0.15,4.81,933.5,10,0,0,Neutral,65,Institutional Support
-QCOM,81.89,0.12,3.1,1068.65,10,0,0,Neutral,65,Institutional Support
-QRVO,95.2,1.14,3.32,84.0,10,0,0,Neutral,65,Institutional Support
+QCOM,81.91,0.12,3.1,1068.65,10,0,0,Neutral,65,Institutional Support
+QRVO,95.16,1.14,3.32,84.0,10,0,0,Neutral,65,Institutional Support
 RCL,89.91,0.26,4.98,258.41,10,0,0,Neutral,65,Institutional Support
 REG,101.26,0.7,4.16,163.72,10,0,0,Neutral,65,Institutional Support
-REGN,90.53,2.03,2.5,98.52,10,0,0,Neutral,70,Strong Institutional Support
-RF,88.04,0.3,8.52,864.29,10,0,0,Neutral,65,Institutional Support
-RJF,79.43,10.47,4.14,174.45,10,0,0,Neutral,60,Institutional Support
-RL,101.55,3.9,6.9,38.08,10,0,0,Neutral,65,Institutional Support
-RMD,65.75,0.51,9.21,145.05,10,0,0,Neutral,60,Institutional Support
+REGN,90.54,2.03,2.5,98.52,10,0,0,Neutral,70,Strong Institutional Support
+RF,88.05,0.3,8.52,864.29,10,0,0,Neutral,65,Institutional Support
+RJF,79.42,10.47,4.14,174.45,10,0,0,Neutral,60,Institutional Support
+RL,101.57,3.9,6.9,38.08,10,0,0,Neutral,65,Institutional Support
+RMD,65.85,0.51,9.21,145.05,10,0,0,Neutral,60,Institutional Support
 ROK,86.87,0.17,2.76,111.91,10,0,0,Neutral,70,Strong Institutional Support
 ROL,55.95,38.29,3.41,311.06,10,0,0,Neutral,50,Neutral
-ROP,96.99,0.37,2.05,107.09,10,0,0,Neutral,70,Strong Institutional Support
+ROP,97.03,0.37,2.05,107.09,10,0,0,Neutral,70,Strong Institutional Support
 ROST,94.3,2.21,2.44,315.97,10,0,0,Neutral,70,Strong Institutional Support
-RSG,96.52,0.12,1.63,308.85,10,0,0,Neutral,70,Strong Institutional Support
-RTX,81.36,0.08,0.73,1247.07,10,0,0,Neutral,70,Strong Institutional Support
-RVTY,104.79,0.31,8.29,104.01,10,0,0,Neutral,65,Institutional Support
+RSG,96.56,0.12,1.63,308.85,10,0,0,Neutral,70,Strong Institutional Support
+RTX,81.37,0.08,0.73,1247.07,10,0,0,Neutral,70,Strong Institutional Support
+RVTY,104.8,0.31,8.29,104.01,10,0,0,Neutral,65,Institutional Support
 SBAC,102.14,0.72,2.82,105.8,10,0,0,Neutral,70,Strong Institutional Support
-SBUX,86.13,0.17,3.96,1134.89,10,0,0,Neutral,65,Institutional Support
-SCHW,84.8,6.2,0.89,1672.03,10,0,0,Neutral,70,Strong Institutional Support
-SHW,84.5,7.18,1.42,227.97,10,0,0,Neutral,70,Strong Institutional Support
-SJM,89.25,2.2,7.74,104.44,10,0,0,Neutral,65,Institutional Support
-SLB,85.96,0.19,3.4,1490.76,10,0,0,Neutral,65,Institutional Support
-SMCI,55.53,16.49,19.39,497.35,10,0,0,Neutral,40,Institutional Concern
-SNA,94.81,2.29,5.63,50.75,10,0,0,Neutral,65,Institutional Support
-SNPS,94.53,0.44,2.39,190.28,10,0,0,Neutral,70,Strong Institutional Support
-SO,73.76,0.08,2.43,1098.78,10,0,0,Neutral,65,Institutional Support
-SOLV,71.97,14.91,2.91,147.36,10,0,0,Neutral,65,Institutional Support
-SPG,93.84,1.83,2.13,322.73,10,0,0,Neutral,70,Strong Institutional Support
-SPGI,90.53,0.27,1.64,302.12,10,0,0,Neutral,70,Strong Institutional Support
-SRE,96.2,0.11,2.03,651.51,10,0,0,Neutral,70,Strong Institutional Support
-STE,98.02,0.31,1.61,97.76,10,0,0,Neutral,70,Strong Institutional Support
+SBUX,86.12,0.17,3.96,1134.89,10,0,0,Neutral,65,Institutional Support
+SCHW,84.81,6.2,0.89,1672.03,10,0,0,Neutral,70,Strong Institutional Support
+SHW,84.48,7.18,1.42,227.97,10,0,0,Neutral,70,Strong Institutional Support
+SJM,89.3,2.2,7.74,104.44,10,0,0,Neutral,65,Institutional Support
+SLB,85.91,0.2,3.4,1490.76,10,0,0,Neutral,65,Institutional Support
+SMCI,55.54,16.49,19.39,497.35,10,0,0,Neutral,40,Institutional Concern
+SNA,94.94,2.29,5.63,50.75,10,0,0,Neutral,65,Institutional Support
+SNPS,94.56,0.44,2.39,190.28,10,0,0,Neutral,70,Strong Institutional Support
+SO,73.77,0.08,2.43,1098.78,10,0,0,Neutral,65,Institutional Support
+SOLV,72.06,14.91,2.91,147.36,10,0,0,Neutral,65,Institutional Support
+SPG,93.85,1.83,2.13,322.73,10,0,0,Neutral,70,Strong Institutional Support
+SPGI,90.55,0.27,1.64,302.12,10,0,0,Neutral,70,Strong Institutional Support
+SRE,96.22,0.11,2.03,651.51,10,0,0,Neutral,70,Strong Institutional Support
+STE,98.04,0.31,1.61,97.76,10,0,0,Neutral,70,Strong Institutional Support
 STLD,81.19,6.43,3.47,136.33,10,0,0,Neutral,65,Institutional Support
-STT,96.04,0.43,1.97,263.81,10,0,0,Neutral,70,Strong Institutional Support
-STX,95.43,0.31,6.94,212.8,10,0,0,Neutral,65,Institutional Support
-STZ,76.66,20.06,5.48,143.66,10,0,0,Neutral,60,Institutional Support
-SWK,94.72,0.33,4.27,154.46,10,0,0,Neutral,65,Institutional Support
-SWKS,98.53,0.46,12.76,147.82,10,0,0,Neutral,55,Institutional Support
-SYF,105.98,0.3,6.36,357.5,10,0,0,Neutral,65,Institutional Support
-SYK,82.1,5.36,1.31,345.28,10,0,0,Neutral,70,Strong Institutional Support
-SYY,89.77,0.2,3.31,477.47,10,0,0,Neutral,65,Institutional Support
-T,67.33,0.09,1.56,7075.06,10,0,0,Neutral,65,Institutional Support
-TAP,94.52,12.4,12.97,177.57,10,0,0,Neutral,55,Institutional Support
-TDG,99.06,0.38,2.6,56.05,10,0,0,Neutral,70,Strong Institutional Support
-TDY,97.21,0.92,2.26,46.71,10,0,0,Neutral,70,Strong Institutional Support
-TECH,109.17,0.28,7.36,153.94,10,0,0,Neutral,65,Institutional Support
-TEL,92.33,0.12,2.22,292.89,10,0,0,Neutral,70,Strong Institutional Support
-TER,107.25,0.2,3.47,156.33,10,0,0,Neutral,65,Institutional Support
-TFC,77.48,0.2,2.43,1259.24,10,0,0,Neutral,65,Institutional Support
-TFX,106.55,0.33,6.34,41.71,10,0,0,Neutral,65,Institutional Support
-TGT,84.71,0.26,4.45,451.6,10,0,0,Neutral,65,Institutional Support
-TJX,92.64,0.1,1.19,1107.87,10,0,0,Neutral,70,Strong Institutional Support
-TMO,92.85,0.15,1.04,374.79,10,0,0,Neutral,70,Strong Institutional Support
-TMUS,41.3,56.47,3.5,531.63,10,0,0,Neutral,50,Neutral
-TPR,99.77,0.37,7.27,203.67,10,0,0,Neutral,65,Institutional Support
-TRGP,94.4,1.38,2.69,211.01,10,0,0,Neutral,70,Strong Institutional Support
-TRMB,100.86,0.25,2.33,236.83,10,0,0,Neutral,70,Strong Institutional Support
-TROW,81.86,1.72,11.26,214.04,10,0,0,Neutral,55,Institutional Support
-TRV,89.07,0.24,1.7,216.35,10,0,0,Neutral,70,Strong Institutional Support
-TSCO,97.76,0.28,6.5,526.51,10,0,0,Neutral,65,Institutional Support
+STT,96.11,0.43,1.97,263.81,10,0,0,Neutral,70,Strong Institutional Support
+STX,95.44,0.31,6.94,212.8,10,0,0,Neutral,65,Institutional Support
+STZ,76.67,20.06,5.48,143.66,10,0,0,Neutral,60,Institutional Support
+SWK,94.74,0.33,4.27,154.46,10,0,0,Neutral,65,Institutional Support
+SWKS,98.43,0.46,12.76,147.82,10,0,0,Neutral,55,Institutional Support
+SYF,105.95,0.42,6.36,357.5,10,0,0,Neutral,65,Institutional Support
+SYK,82.08,5.36,1.31,345.28,10,0,0,Neutral,70,Strong Institutional Support
+SYY,89.78,0.2,3.31,477.47,10,0,0,Neutral,65,Institutional Support
+T,67.34,0.09,1.56,7075.06,10,0,0,Neutral,65,Institutional Support
+TAP,94.44,12.4,12.97,177.57,10,0,0,Neutral,55,Institutional Support
+TDG,98.42,0.39,2.6,56.05,10,0,0,Neutral,70,Strong Institutional Support
+TDY,97.22,0.92,2.26,46.71,10,0,0,Neutral,70,Strong Institutional Support
+TECH,109.33,0.28,7.36,153.94,10,0,0,Neutral,65,Institutional Support
+TEL,92.44,0.12,2.22,292.89,10,0,0,Neutral,70,Strong Institutional Support
+TER,107.26,0.2,3.47,156.33,10,0,0,Neutral,65,Institutional Support
+TFC,77.49,0.2,2.43,1259.24,10,0,0,Neutral,65,Institutional Support
+TFX,106.52,0.33,6.34,41.71,10,0,0,Neutral,65,Institutional Support
+TGT,84.68,0.26,4.45,451.6,10,0,0,Neutral,65,Institutional Support
+TJX,92.62,0.1,1.19,1107.87,10,0,0,Neutral,70,Strong Institutional Support
+TMO,92.83,0.15,1.04,374.79,10,0,0,Neutral,70,Strong Institutional Support
+TMUS,41.23,56.47,3.5,531.63,10,0,0,Neutral,50,Neutral
+TPR,100.0,0.37,7.27,203.67,10,0,0,Neutral,65,Institutional Support
+TRGP,94.41,1.38,2.69,211.01,10,0,0,Neutral,70,Strong Institutional Support
+TRMB,100.9,0.25,2.33,236.83,10,0,0,Neutral,70,Strong Institutional Support
+TROW,81.87,1.72,11.26,214.04,10,0,0,Neutral,55,Institutional Support
+TRV,89.03,0.24,1.7,216.35,10,0,0,Neutral,70,Strong Institutional Support
+TSCO,97.77,0.28,6.5,526.51,10,0,0,Neutral,65,Institutional Support
 TSLA,49.89,12.56,2.33,2386.01,10,0,0,Neutral,55,Institutional Support
-TSN,90.25,1.64,3.2,275.83,10,0,0,Neutral,65,Institutional Support
+TSN,90.27,1.64,3.2,275.83,10,0,0,Neutral,65,Institutional Support
 TT,89.94,0.26,1.6,221.18,10,0,0,Neutral,70,Strong Institutional Support
-TTWO,96.69,1.37,5.19,172.44,10,0,0,Neutral,65,Institutional Support
-TXN,90.98,0.21,2.3,906.32,10,0,0,Neutral,70,Strong Institutional Support
-TXT,88.88,0.61,3.33,175.05,10,0,0,Neutral,65,Institutional Support
+TTWO,96.72,1.37,5.19,172.44,10,0,0,Neutral,65,Institutional Support
+TXN,90.99,0.21,2.3,906.32,10,0,0,Neutral,70,Strong Institutional Support
+TXT,88.92,0.61,3.33,175.05,10,0,0,Neutral,65,Institutional Support
 TYL,97.8,0.38,4.44,42.82,10,0,0,Neutral,65,Institutional Support
-UAL,91.03,0.52,4.52,324.61,10,0,0,Neutral,65,Institutional Support
-UBER,85.39,0.45,2.72,2066.67,10,0,0,Neutral,70,Strong Institutional Support
-UDR,103.51,0.45,4.69,298.47,10,0,0,Neutral,65,Institutional Support
-UHS,98.5,5.7,5.38,52.39,10,0,0,Neutral,65,Institutional Support
+UAL,91.05,0.52,4.52,324.61,10,0,0,Neutral,65,Institutional Support
+UBER,85.42,0.45,2.72,2066.67,10,0,0,Neutral,70,Strong Institutional Support
+UDR,103.52,0.45,4.69,298.47,10,0,0,Neutral,65,Institutional Support
+UHS,98.59,5.7,5.38,52.39,10,0,0,Neutral,65,Institutional Support
 ULTA,99.82,0.28,6.11,44.19,10,0,0,Neutral,65,Institutional Support
-UNH,83.6,0.81,1.54,898.14,10,0,0,Neutral,70,Strong Institutional Support
-UNP,87.01,0.12,4.19,591.96,10,0,0,Neutral,65,Institutional Support
-UPS,66.84,0.03,2.15,738.22,10,0,0,Neutral,65,Institutional Support
+UNH,83.59,0.81,1.54,898.14,10,0,0,Neutral,70,Strong Institutional Support
+UNP,87.0,0.12,4.19,591.96,10,0,0,Neutral,65,Institutional Support
+UPS,66.85,0.03,2.15,738.22,10,0,0,Neutral,65,Institutional Support
 URI,94.87,0.52,2.81,63.38,10,0,0,Neutral,70,Strong Institutional Support
-USB,81.68,0.12,1.34,1550.55,10,0,0,Neutral,70,Strong Institutional Support
-V,90.77,0.58,1.38,1747.46,10,0,0,Neutral,70,Strong Institutional Support
-VICI,100.68,0.27,3.46,1064.27,10,0,0,Neutral,65,Institutional Support
-VLO,85.28,0.57,5.18,303.45,10,0,0,Neutral,65,Institutional Support
-VLTO,97.92,0.13,2.51,247.73,10,0,0,Neutral,70,Strong Institutional Support
+USB,81.7,0.12,1.34,1550.55,10,0,0,Neutral,70,Strong Institutional Support
+V,90.78,0.58,1.38,1747.46,10,0,0,Neutral,70,Strong Institutional Support
+VICI,100.67,0.27,3.46,1064.27,10,0,0,Neutral,65,Institutional Support
+VLO,85.31,0.58,5.18,303.45,10,0,0,Neutral,65,Institutional Support
+VLTO,97.97,0.13,2.51,247.73,10,0,0,Neutral,70,Strong Institutional Support
 VMC,95.66,0.16,4.1,131.84,10,0,0,Neutral,65,Institutional Support
-VRSK,96.77,0.24,2.88,138.99,10,0,0,Neutral,70,Strong Institutional Support
-VRSN,88.54,10.41,3.57,91.88,10,0,0,Neutral,65,Institutional Support
-VRTX,97.66,0.13,2.24,252.96,10,0,0,Neutral,70,Strong Institutional Support
+VRSK,96.77,0.27,2.88,138.99,10,0,0,Neutral,70,Strong Institutional Support
+VRSN,88.27,10.41,3.57,91.88,10,0,0,Neutral,65,Institutional Support
+VRTX,97.67,0.13,2.24,252.96,10,0,0,Neutral,70,Strong Institutional Support
 VST,92.33,0.71,2.68,316.55,10,0,0,Neutral,70,Strong Institutional Support
-VTR,100.26,0.52,3.93,467.57,10,0,0,Neutral,65,Institutional Support
-VTRS,87.19,0.28,2.18,1144.17,10,0,0,Unknown,70,Strong Institutional Support
-VZ,69.17,0.04,2.82,4210.65,10,0,0,Neutral,65,Institutional Support
-WAB,96.45,1.1,1.37,168.95,10,0,0,Neutral,70,Strong Institutional Support
-WAT,100.17,0.16,4.58,59.42,10,0,0,Neutral,65,Institutional Support
+VTR,100.16,0.52,3.93,467.57,10,0,0,Neutral,65,Institutional Support
+VTRS,87.18,0.28,2.18,1144.17,10,0,0,Unknown,70,Strong Institutional Support
+VZ,69.11,0.04,2.82,4210.65,10,0,0,Neutral,65,Institutional Support
+WAB,96.51,1.1,1.37,168.95,10,0,0,Neutral,70,Strong Institutional Support
+WAT,100.18,0.16,4.58,59.42,10,0,0,Neutral,65,Institutional Support
 WBA,0.0,0.0,0.0,0.0,0,0,0,Unknown,45,Neutral
-WBD,73.76,5.95,4.49,2343.99,10,0,0,Neutral,60,Institutional Support
-WDC,106.97,0.54,12.18,339.49,10,0,0,Neutral,55,Institutional Support
-WEC,84.41,0.15,4.74,324.39,10,0,0,Neutral,65,Institutional Support
-WELL,98.45,0.05,2.18,685.37,10,0,0,Neutral,70,Strong Institutional Support
-WFC,80.34,0.09,1.22,3085.04,10,0,0,Neutral,70,Strong Institutional Support
-WM,83.91,0.25,1.19,401.69,10,0,0,Neutral,70,Strong Institutional Support
-WMB,88.69,0.45,1.43,1214.22,10,0,0,Neutral,70,Strong Institutional Support
+WBD,73.86,5.95,4.49,2343.99,10,0,0,Neutral,60,Institutional Support
+WDC,107.09,0.54,12.18,339.49,10,0,0,Neutral,55,Institutional Support
+WEC,84.42,0.15,4.74,324.39,10,0,0,Neutral,65,Institutional Support
+WELL,98.48,0.05,2.18,685.37,10,0,0,Neutral,70,Strong Institutional Support
+WFC,80.37,0.09,1.22,3085.04,10,0,0,Neutral,70,Strong Institutional Support
+WM,83.94,0.25,1.19,401.69,10,0,0,Neutral,70,Strong Institutional Support
+WMB,88.71,0.45,1.43,1214.22,10,0,0,Neutral,70,Strong Institutional Support
 WMT,36.63,45.12,0.69,4367.25,10,0,0,Neutral,55,Institutional Support
-WRB,81.7,25.73,5.85,239.07,10,0,0,Neutral,65,Institutional Support
-WST,97.73,0.59,3.24,71.46,10,0,0,Neutral,65,Institutional Support
-WTW,99.18,0.25,5.32,95.38,10,0,0,Neutral,65,Institutional Support
+WRB,81.89,25.73,5.85,0.0,10,0,0,Neutral,65,Institutional Support
+WST,97.92,0.59,3.24,71.46,10,0,0,Neutral,65,Institutional Support
+WTW,99.19,0.25,5.32,95.38,10,0,0,Neutral,65,Institutional Support
 WY,89.82,0.33,3.0,717.62,10,0,0,Neutral,65,Institutional Support
 WYNN,68.63,27.13,6.79,74.2,10,0,0,Neutral,60,Institutional Support
-XEL,95.54,0.19,4.86,590.03,10,0,0,Neutral,65,Institutional Support
+XEL,95.57,0.19,4.86,590.03,10,0,0,Neutral,65,Institutional Support
 XOM,66.52,0.09,1.11,4205.74,10,0,0,Neutral,65,Institutional Support
-XYL,95.82,0.21,1.73,242.87,10,0,0,Neutral,70,Strong Institutional Support
-YUM,86.36,0.15,3.68,276.9,10,0,0,Neutral,65,Institutional Support
-ZBH,100.5,0.15,5.98,197.71,10,0,0,Neutral,65,Institutional Support
+XYL,95.81,0.21,1.73,242.87,10,0,0,Neutral,70,Strong Institutional Support
+YUM,86.31,0.15,3.68,276.9,10,0,0,Neutral,65,Institutional Support
+ZBH,100.47,0.15,5.98,197.71,10,0,0,Neutral,65,Institutional Support
 ZBRA,101.24,0.65,2.93,50.24,10,0,0,Neutral,70,Strong Institutional Support
-ZTS,99.28,0.1,3.12,439.83,10,0,0,Neutral,65,Institutional Support
+ZTS,99.2,0.1,3.12,439.83,10,0,0,Neutral,65,Institutional Support
