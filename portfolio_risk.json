@@ -6,7 +6,7 @@
       "AAPL": 1.0,
       "GOOGL": 0.4,
       "MSFT": 0.14,
-      "NVDA": 0.21
+      "NVDA": 0.2
     },
     "GOOGL": {
       "AAPL": 0.4,
@@ -21,7 +21,7 @@
       "NVDA": 0.4
     },
     "NVDA": {
-      "AAPL": 0.21,
+      "AAPL": 0.2,
       "GOOGL": 0.31,
       "MSFT": 0.4,
       "NVDA": 1.0

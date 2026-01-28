@@ -118,5 +118,77 @@
     "summary_ko": "Analysis Failed (Rate Limit)",
     "summary_en": "Analysis Failed (Rate Limit)",
     "updated": "2026-01-03T22:41:44.785131"
+  },
+  "ILMN": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:02:58.419462"
+  },
+  "AMGN": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:01.682371"
+  },
+  "GM": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:03.588741"
+  },
+  "HON": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:05.339444"
+  },
+  "AES": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:10.707626"
+  },
+  "CFG": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:16.126241"
+  },
+  "LHX": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:19.757754"
+  },
+  "MSCI": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:21.539017"
+  },
+  "VTRS": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:25.041676"
+  },
+  "PNC": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:26.946585"
+  },
+  "BALL": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:28.802171"
+  },
+  "KEY": {
+    "summary": "Analysis Failed (404)",
+    "summary_ko": "Analysis Failed (404)",
+    "summary_en": "Analysis Failed (404)",
+    "updated": "2026-01-28T22:03:30.768251"
   }
 }
