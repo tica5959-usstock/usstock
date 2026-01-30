@@ -1,19 +1,11 @@
 {
-  "timestamp": "2026-01-29T21:57:53.428042",
+  "timestamp": "2026-01-30T21:57:22.466847",
   "summary": {
     "total_etfs": 24,
-    "inflows": 19,
-    "outflows": 2
+    "inflows": 18,
+    "outflows": 5
   },
   "top_inflows": [
-    {
-      "name": "Gold",
-      "flow_score": 100
-    },
-    {
-      "name": "Silver",
-      "flow_score": 100
-    },
     {
       "name": "Energy",
       "flow_score": 80
@@ -23,8 +15,16 @@
       "flow_score": 80
     },
     {
-      "name": "NASDAQ 100",
+      "name": "Gold",
+      "flow_score": 77
+    },
+    {
+      "name": "Utilities",
       "flow_score": 73
+    },
+    {
+      "name": "Silver",
+      "flow_score": 70
     }
   ],
   "top_outflows": [
@@ -33,20 +33,20 @@
       "flow_score": 27
     },
     {
+      "name": "Financials",
+      "flow_score": 35
+    },
+    {
+      "name": "Total Market",
+      "flow_score": 35
+    },
+    {
       "name": "Mid-Term Treasury",
       "flow_score": 35
     },
     {
-      "name": "Consumer Discretionary",
-      "flow_score": 47
-    },
-    {
-      "name": "Financials",
-      "flow_score": 50
-    },
-    {
       "name": "Communication Services",
-      "flow_score": 50
+      "flow_score": 43
     }
   ],
   "ai_analysis": "AI 분석 생성 실패"

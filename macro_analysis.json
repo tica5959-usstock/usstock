@@ -1,6 +1,56 @@
 {
-  "timestamp": "2026-01-29T22:02:14.494620",
+  "timestamp": "2026-01-30T22:00:59.043871",
   "macro_indicators": {
+    "VIX": {
+      "value": 17.44,
+      "change_1d": 3.32,
+      "pct_from_high": -71.0
+    },
+    "DXY": {
+      "value": 97.12,
+      "change_1d": 0.87,
+      "pct_from_high": -11.6
+    },
+    "2Y_Yield": {
+      "value": 3.57,
+      "change_1d": -0.22,
+      "pct_from_high": -17.0
+    },
+    "10Y_Yield": {
+      "value": 4.24,
+      "change_1d": 0.33,
+      "pct_from_high": -9.0
+    },
+    "GOLD": {
+      "value": 4889.3,
+      "change_1d": -8.07,
+      "pct_from_high": -12.5
+    },
+    "OIL": {
+      "value": 65.76,
+      "change_1d": 0.52,
+      "pct_from_high": -16.1
+    },
+    "BTC": {
+      "value": 84229.85,
+      "change_1d": -0.39,
+      "pct_from_high": -33.3
+    },
+    "SPY": {
+      "value": 691.97,
+      "change_1d": -0.3,
+      "pct_from_high": -0.8
+    },
+    "QQQ": {
+      "value": 621.87,
+      "change_1d": -1.2,
+      "pct_from_high": -2.3
+    },
+    "YieldSpread": {
+      "value": 0.67,
+      "change_1d": 0,
+      "pct_from_high": 0
+    },
     "FearGreed": {
       "value": 65,
       "change_1d": 0,
